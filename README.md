@@ -7,4 +7,4 @@ For more information see http://www.dnnsoftware.com/community-blog/cid/155072/ne
 
 For the compilation of these files I used files from https://github.com/umpirsky/country-list
 
-To use this simmply copy the needed resx files to your DNN installattion App_GlobalResources directory and your country selectbox will be localized
+To use this simply copy the needed resx files to your DNN installattion App_GlobalResources directory and your country selectbox will be localized
