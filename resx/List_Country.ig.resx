@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Bemuda</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Binin</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Chaina</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Comorosu</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Hati</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>Libyia</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>Maldivesa</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>Nigeria</value>
+  </data>
+</root>

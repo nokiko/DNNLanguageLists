@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="KH.Text" xml:space="preserve">
+    <value>កម្ពុជា</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>កាណាដា</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>កាតារ</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>កាបវែរ</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>កាមេរូន</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>កាហ្សាក់ស្តាង់់</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>កុងហ្គោ</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>កូដឌីវ័រ</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>កូស្តារីកា</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>កូឡុំប៊ី</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>កេនយ៉ា</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>កុំម៉ូរ៉ូស</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ក្រិច</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>ក្រូអាស៊ី</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>គិរិបាទី</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>គុយបា</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>គុយវ៉ែត</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>គៀរហ្គីស្តង់</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>ចិន</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>ឆាដ</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>ជប៉ុន</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>ឈីលី</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ដាណឺម៉ាក</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ដូមីនីកា</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>ណាមីប៊ី</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>តង់ហ្សានី</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>តាដហ្ស៉ីគីស្តង់</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>តុងហ្គា</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>តូហ្គូ</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>តៃវ៉ាន់</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>ថៃ</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>ទីម័រខាងកើត</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>ទុយនេស៊ី</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>ទួគមេនីស្តង់</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>ទួរគី</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>ទ្រីនីដាដនឹងតូបាហ្គោ</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>ន័រវែស</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>នីការ៉ាហ្គ័រ</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>នីហ្សេរ</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>នីហ្សេរីយ៉ា</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>នូវែលហ្សេឡង់</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>នេប៉ាល់</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>បង់ក្លាដេស្ហ</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>ប៉ាគីស្ថាន</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>ប៉ាណាម៉ា</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>ប៉ាពូអានូវែលហ្គីណេ</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>បារបាដូស</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>ប៉ារ៉ាហ្គាយ</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>បារ៉ែន</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>បារាំង</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>ប៉ាលេស្ទីន</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>បាហាម៉ា</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>បុតស្វាណា</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>ប៊ុលហ្គារី</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>ប៊ូតាន</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>ប៊ូរគីណាហ្វាសូ</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>ប៊ូរុនឌី</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>បូលីវី</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>ប៉ូលូញ</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>បូស្ន៉ី</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>បេណាំង</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>ប៉េរូ</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>បេលីហ្ស</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>បេឡារុស្ស</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>បែលហ្ស៉ិក</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>ប៊្រុយណេ</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>ប្រេស៊ីល</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>ព័រតូរីកូ</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>ព័រទុយហ្កាល់</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>ម៉ាដាហ្កាស្ការ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>ម៉ារ៉ុក</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>ម៉ាល់តា</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>ម៉ាលី</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>ម៉ាលេស៉ី</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>ម៉ាសេដន</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>មិក្រូនេស៊ី</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>ម៉ិចសិក</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>មីយ៉ាន់ម៉ា</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>ម៉ុងហ្គោលី</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>ម៉ូណាកូ</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>ម៉ូរីតានី</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>ម៉ូរីទុស</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>ម៉ូហ្សាំប៊ិក</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>យេមែន</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>រវ៉ាន់ដា</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>រូម៉ានី</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>រូស្ស៊ី</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>លិចទេនស្តែន</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>លីទុយអានី</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>លីបង់</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>លីប៊ី</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>លីបេរីយ៉ា</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>លុចហ្សំបួរ</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>លើសូតូ</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>វ៉ាទីកង់</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>វៀតណាម</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>វេនេហ្ស៊ុយឡា</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>សហរដ្ឋអាមេរិក</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>សាធារណរដ្ឋកូរ៉េ</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>សាធារណរដ្ឋឆេក</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>សាធារណរដ្ឋដូមីនីកែន</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>សាធារណរដ្ឋប្រជាធិបតេយ្យប្រជាមានិតកូរ៉េ</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>សាធារណរដ្ឋម៉ុលដាវី</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>សាធារណរដ្ឋអាហ្វ្រិកកណ្ដាល</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>សាមូអា</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>សាហារ៉ាខាងលិច</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>សិង្ហបុរី</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>ស៉ីពរ៍</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>ស៊ីរី</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>សីសែល</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>ស៊ុយអែដ</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>ស៊ូដង់</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>សូម៉ាលី</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>សូរីណាម</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>សូហ្ស៉ីឡង់</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>សេនេហ្កាល់</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>សេរ៉ាឡេអូន</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>ស្រីលង្កា</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>ស្លូវ៉ាគី</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>ស្លូវេនី</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>ស្វីស</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>ហុងកុង</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>ហុងគ្រី</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>ហុងឌួរ៉ាស់</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>ហូល្លង់</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>ហៃទី</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ហ្កាណា</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ហ្គាតេម៉ាឡា</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>ហ្គាបុង</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ហ្គីណេ</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>ហ្គីណេប៊ីសូ</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>ហ្គីណេអេក្វាទ័រ</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>ហ្គីយ៉ាណា</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ហ្គាំប៊ី</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ហ្វ៉ីលីពីន</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ហ្វ៉ីហ្ស៉ី</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ហ្វាំងឡង់</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ហ៊្សកដានី</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>ហ្សកហ្ស៉ី</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ហ្សាម៉ាអ៉ិគ</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>ហ្ស៉ីបូទី</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>ហ្ស៊ីមបាបវ៉េ</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>ហ្សាំប៊ី</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>ឡាតវីយ៉ា</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>ឡាវ</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>អង់ហ្គោឡា</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>អានដូរ៉ា</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>អារមេនី</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>អារ៉ាប៊ីសាអ៊ូឌីត</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>អាល់បានី</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>អាល់ហ្សេរី</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>អាល្លឺម៉ង់</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>អាហ្វហ្គានីស្ថាន</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>អាហ្វ្រិកខាងត្បូង</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>អាហ្សង់ទីន</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>អាហ៊្សែរបែហ្សង់</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ឥណ្ឌា</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>ឥណ្ឌូនេស៊ី</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>អ៊ីតាលី</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>អ៊ីរ៉ង់</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>អ៊ីរ៉ាក់</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>អ៊ីស្រាអែល</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>អ៉ីស្លង់</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>អ៊ុយក្រែន</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>អ៊ុយរុយហ្គាយ</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>អូទ្រីស</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>អូម៉ង់</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>អូស្ត្រាលី</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>អ៊ូហ្កង់ដា</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>អ៊ូហ្សបេគីស្តង់</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>អៀរឡង់</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>អេក្វាឌ័រ</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>អេត្យូពី</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>អេមីរ៉ែទអារ៉ាប់រួម</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>អេរីទ្រា</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>អេស្តូនី</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>អេស្ប៉ាញ</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>អេហ្ស៉ីប</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>អែលសាល់វ៉ាឌ័រ</value>
+  </data>
+</root>

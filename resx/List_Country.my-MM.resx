@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CA.Text" xml:space="preserve">
+    <value>ကနေဒါ</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>ကာဇက်စတန်</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>ကာတာ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>ကူဝိတ်</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>ကေမန် ကျွန်းစု</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>ကော့စ်တာရီကာ</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>ကိုကိုး ကျွန်းစု</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>ကိုလံဘီယာ</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>ကင်ညာ</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>ကင်မရွန်း</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>ကမ္ဘောဒီးယား</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>ကျူးဘား</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>ကွတ် ကျွန်းစု</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>ခရိုအေးရှား</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>ခရစ်စမတ် ကျွန်း</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>ချီလီ</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>ချက် ပြည်ထောင်စု</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>ချဒ်</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ဂရိ</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>ဂရင်းလန်း</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ဂါနာ</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ဂီရာနာ</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>ဂူအမ်</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ဂန်ဘီရာ</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>ဂျပန်</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ဂျမေနီကာ</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>ဂျာစီ</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>ဂျာမဏီ</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>ဂျီဘရော်လ်တာ</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>ဂျော်ဂျီယာ</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ဂျော်ဒန်</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ဂွာတီမာလာ</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>စပိန်</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>စလိုဗေးကီးယား</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>စလိုဗေးနီးယား</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>စင်္ကာပူ</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>စိန့်မာတင်</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>ဆားဘီးယား</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>ဆီနီဂေါ</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>ဆီးရီးယား</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>ဆူဒန်</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>ဆော်ဒီအာရေးဗီးယား</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>ဆော်လမွန်ကျွန်းစု</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>ဆိုမာလီယာ</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>ဆိုက်ပရက်စ်</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>ဆွီဒင်</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>ဆွစ်ဇလန်</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>ဇင်ဘာဘွေ</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>ဇမ်ဘီယာ</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>တရုတ်</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>တရုတ်၏ အထူးအုပ်ချုပ်ခွင့်ရ မကာအို</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>တရုတ်၏ အထူးအုပ်ချုပ်ခွင့်ရ ဟောင်ကောင်</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>တာဂျီကစ္စတန်</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>တူနီးရှား</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>တူရကီ</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>တောင်ကိုရီးယား</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>တောင်အာဖရိက</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>တန်ဇန်နီးယား</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>တွန်ဂါ</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>ထိုင်ဝမ်</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>ထိုင်း</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ဒိုမီနီကာ</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>ဒိုမီနီကန်</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ဒိန်းမတ်</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>နယူး ကယ်လီဒိုနီးယား</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>နယူးဇီလန်</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>နီကာရာဂွာ</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>နီပေါ</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>နော်ဝေ</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>နိုင်ဂျာ</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>နိုင်ဂျီးရီးယား</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>နမ်မီးဘီးယား</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>နယ်သာလန်</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>ပနားမား</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>ပါကစ္စတန်</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>ပါပူရာနယူးဂီနီ</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>ပါရာဂွေး</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>ပါလက်စတိုင်း ပိုင်နက်</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>ပီရူး</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>ပေါ်တူဂီ</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>ပေါ်တူရီကို</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>ပိုလန်</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>ပြင်သစ်</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>ပြင်သစ် ဂီယာနာ</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>ပြင်သစ် တောင်ပိုင်း ပိုင်နက်များ</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>ပြင်သစ် ပေါ်လီနေးရှား</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>ဖာရိုး ကျွန်းစုများ</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ဖိလစ်ပိုင်</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ဖီဂျီ</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>ဖောက်ကလန် ကျွန်းစု</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ဖင်လန်</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>ဗာတီကန်</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>ဗီယက်နမ်</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>ဗင်နီဇွဲလား</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>ဗြိတိသျှ ဗာဂျင်း ကျွန်းစု</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>ဗြိတိသျှ အိန္ဒြိယ သမုဒ္ဒရာ ပိုင်နက်</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>ဘရာဇီး</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>ဘရူနိုင်း</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>ဘဟားမား</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>ဘာမူဒါ</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>ဘာရိန်း</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>ဘီလာရုစ်</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>ဘူဂေးရီးယား</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>ဘူတန်</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>ဘေလီဇ်</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>ဘော့စနီးယား နှင့် ဟာဇီဂိုဘီးနား</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>ဘော့စ်ဝါနာ</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>ဘိုလီးဘီးယား</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>ဘင်္ဂလားဒေ့ရှ်</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>ဘယ်လ်ဂျီယမ်</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>မဒဂတ်စကာ</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>မလေးရှား</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>မာစီဒိုးနီးယား</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>မာရှယ် ကျွန်းစု</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>မာလာဝီ</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>မာလီ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>မော်ရိုကို</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>မော်လဒိုက်</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>မိုဇန်ဘစ်</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>မိုနကို</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>မက္ကဆီကို</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>မြောက်ကိုရီးယား</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>မြန်မာ</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>မွန်ဂိုးလီးယား</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>မွန်တီနိဂရိုး</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>ယီမင်</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>ယူကရိန်း</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>ယူဂန္ဒာ</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>ယူနိုက်တက်ကင်းဒမ်း</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ယူနိုက်တက်စတိတ်</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>ယူနိုက်တက်စတိတ် အပြင်ထွက် နေသည့် သေးငယ်သောကျွန်းများ</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>ယူအေအီး</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>ယူအက်စ် ဗာဂျင်း ကျွန်းစု</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>ရဝန်ဒါ</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>ရုရှ</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>ရိုမေးနီးယား</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>လာအို</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>လူဇင်ဘတ်</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>လက်ဘနွန်</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>လိုင်ဘေးရီးယား</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>လစ်သူယေးနီးယား</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>လတ်ဗီးယား</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>သီရိလင်္ကာ</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>ဟေတီ</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>ဟန်ဂေရီ</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>ဟွန်ဒူးရပ်စ်</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>အဇာဘိုင်ဂျန်</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>အနောက်ပိုင်း ဆာဟာရ</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>အမေရိကန် စမိုအ</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>အရှေ့တီမော</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>အလယ်ပိုင်း အာဖရိက ပြည်ထောင်စု</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>အာဂျင်တီးနား</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>အာဖဂန်နစ္စတန်</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>အာမေနီးယား</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>အီကွေတာ ဂီရာနာ</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>အီကွေဒေါ</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>အီဂျစ်</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>အီတလီ</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>အီရတ်</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>အီရန်</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>အီသီယိုးပီးယား</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>ဥဘက်ကစ္စတန်</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>ဥရုဂွေး</value>
+  </data>
+  <data name="EU.Text" xml:space="preserve">
+    <value>ဥရောပသမဂ္ဂ</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>ဩစတြီးယား</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>ဩစတြေးလျှား</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>အိုမန်</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>အက်စတိုးနီးယား</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>အိုက်စလန်</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>အင်ဂိုလာ</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>အင်ဒိုနီးရှား</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>အိုင်ဗရီကိုစ့်</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>အိုင်ယာလန်</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>အစ္စရေး</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>အန်ကွီလာ</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>အန္တာတိက</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>အိန္ဒိယ</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>အယ်လ်ဂျီးရီးယား</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>အယ်လ်ဆာဗေးဒိုး</value>
+  </data>
+</root>

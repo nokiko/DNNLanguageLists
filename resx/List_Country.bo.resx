@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="GB.Text" xml:space="preserve">
+    <value>དབྱིན་ཇི་</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>བར་ཡུལ་</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>འཇར་མན་</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>རྒྱ་གར་</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>རྒྱ་ནག</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>རི་པིན་</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ཨ་མེ་རི་ཀ་</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ཨི་ཀྲར་ལི་</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>ཨུ་རུ་སུ་</value>
+  </data>
+</root>

@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="HU.Text" xml:space="preserve">
+    <value>ሀንጋሪ</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>ሀይቲ</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ህንድ</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>ሆንዱራስ</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>ሆንግ ኮንግ SAR ቻይና</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>ሉክሰምበርግ</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>ሊቢያ</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>ሊባኖስ</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>ሊቱዌኒያ</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>ሊችተንስታይን</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>ላትቪያ</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>ላኦስ</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>ላይቤሪያ</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>ሌሶቶ</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>መቄዶንያ</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>ሚክሮኔዢያ</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>ማሊ</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>ማላዊ</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>ማሌዢያ</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>ማልታ</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>ማልዲቭስ</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>ማርሻል አይላንድ</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>ማርቲኒክ</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>ማካኡ ልዩ የአስተዳደር ክልል ቻይና</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>ማይናማር(በርማ)</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>ማዳጋስካር</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>ሜክሲኮ</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>ሜይኦቴ</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>ምስራቅ ሌስት</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>ምዕራባዊ ሳህራ</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>ሞልዶቫ</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>ሞሪሸስ</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>ሞሪቴኒያ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>ሞሮኮ</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>ሞናኮ</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>ሞንተኔግሮ</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>ሞንትሴራት</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>ሞንጎሊያ</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>ሞዛምቢክ</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>ሩዋንዳ</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>ሪዩኒየን</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>ራሺያ</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>ሮሜኒያ</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>ሰሎሞን ደሴት</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>ሰሜን ኮሪያ</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>ሰርብያ</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>ሱማሌ</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>ሱሪናም</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>ሱዋዚላንድ</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>ሱዳን</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>ሲሪላንካ</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>ሲሪያ</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>ሲሼልስ</value>
+  </data>
+  <data name="SX.Text" xml:space="preserve">
+    <value>ሲንት ማርተን</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>ሲንጋፖር</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>ሳሞአ</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>ሳን ማሪኖ</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>ሳኦ ቶሜ እና ፕሪንሲፔ</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>ሳውድአረቢያ</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>ሳይፕረስ</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>ሴራሊዮን</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>ሴኔጋል</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>ሴንት ሄለና</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>ሴንት ሉቺያ</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>ሴንት ማርቲን</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>ሴኡታና ሜሊላ</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>ስሎቫኪያ</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>ስሎቬኒያ</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>ስቫልባርድ እና ጃን ማየን</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>ስዊዘርላንድ</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>ስዊድን</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>ስፔን</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>ቅዱስ በርቴሎሜ</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>ቅዱስ ቪንሴንት እና ግሬናዲንስ</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>ቅዱስ ኪትስ እና ኔቪስ</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>ቅዱስ ፒዬር እና ሚኩኤሎን</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>ቡህታን</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>ቡልጌሪያ</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>ቡርኪና ፋሶ</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>ባሃማስ</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>ባህሬን</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>ባርቤዶስ</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>ባንግላዲሽ</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>ቤሊዘ</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>ቤላሩስ</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>ቤልጄም</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>ቤርሙዳ</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>ቤኒን</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>ብሩኒ</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>ብሩንዲ</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>ብራዚል</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>ቦሊቪያ</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>ቦስኒያ እና ሄርዞጎቪኒያ</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>ቦትስዋና</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>ቫቲካን ከተማ</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>ቫኑአቱ</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>ቬትናም</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>ቬንዙዌላ</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>ቱርክ</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>ቱርክሜኒስታን</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>ቱቫሉ</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>ቱኒዚያ</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>ታንዛኒያ</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>ታይላንድ</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>ታይዋን</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>ታጃኪስታን</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>ትሪስታን ዲ ኩንሃ</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>ትሪናዳድ እና ቶቤጎ</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>ቶንጋ</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>ቶክላው</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>ቶጐ</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>ቺሊ</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>ቻይና</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>ቻድ</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>ቼክ ሪፑብሊክ</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>ኒኡይ</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>ኒካራጓ</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>ኒው ካሌዶኒያ</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>ኒው ዚላንድ</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>ኒጀር</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>ናሚቢያ</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>ናኡሩ</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>ናይጄሪያ</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>ኔዘርላንድ</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>ኔፓል</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>ኖርዌ</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>ኖርፎልክ ደሴት</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>አልባኒያ</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>አልጄሪያ</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>አሩባ</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>አርሜኒያ</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>አርጀንቲና</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>አሴንሽን ደሴት</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>አንቲጓ እና ባሩዳ</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>አንታርክቲካ</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>አንዶራ</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>አንጉኢላ</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>አንጐላ</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>አውስትራልያ</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>አዘርባጃን</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>አየርላንድ</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>አይል ኦፍ ማን</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>አይስላንድ</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>አፍጋኒስታን</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>ኡራጓይ</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>ኡዝቤኪስታን</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>ኢራቅ</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>ኢራን</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>ኢትዮጵያ</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>ኢንዶኔዢያ</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>ኢኳቶሪያል ጊኒ</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>ኢኳዶር</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>ኤል ሳልቫዶር</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>ኤርትራ</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>ኤስቶኒያ</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>እስራኤል</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>እንግሊዝ</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>ኦማን</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>ኦስትሪያ</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>ኩራሳዎ</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>ኩባ</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>ኩክ ደሴቶች</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>ኪሪባቲ</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>ኪርጊስታን</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>ካሜሩን</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>ካምቦዲያ</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>ካናዳ</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>ካዛኪስታን</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>ካይማን ደሴቶች</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>ኬንያ</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>ኬፕ ቬርዴ</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>ክሮኤሽያ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>ክዌት</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>ኮሎምቢያ</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>ኮሞሮስ</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>ኮስታ ሪካ</value>
+  </data>
+  <data name="XK.Text" xml:space="preserve">
+    <value>ኮሶቮ</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>ኮት ዲቯር</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>ኮንጎ ብራዛቪል</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>ኮንጎ-ኪንሻሳ</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>ኮኮስ(ኬሊንግ) ደሴቶች</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>ኳታር</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>ዋሊስ እና ፉቱና ደሴቶች</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>ዚምቧቤ</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>ዛምቢያ</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>የመን</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>የመካከለኛው አፍሪካ ሪፐብሊክ</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>የሰሜናዊ ማሪያና ደሴቶች</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>የብሪታኒያ ህንድ ውቂያኖስ ግዛት</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>የተባበሩት አረብ ኤምሬትስ</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>የቱርኮችና የካኢኮስ ደሴቶች</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>የአላንድ ደሴቶች</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>የአሜሪካ ሳሞአ</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>የአሜሪካ ቨርጂን ደሴቶች</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>የእንግሊዝ ቨርጂን ደሴቶች</value>
+  </data>
+  <data name="BQ.Text" xml:space="preserve">
+    <value>የካሪቢያን ኔዘርላንድስ</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>የካናሪ ደሴቶች</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>የዩ ኤስ ጠረፍ ላይ ያሉ ደሴቶች</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>የገና ደሴት</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>የፈረንሳይ ደቡባዊ ግዛቶች</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>የፈረንሳይ ጉዊአና</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>የፈረንሳይ ፖሊኔዢያ</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>የፋሮ ደሴቶች</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>የፍልስጤም ግዛት</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>የፎክላንድ ደሴቶች</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ዩናይትድ ስቴትስ</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>ዩክሬን</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>ዩጋንዳ</value>
+  </data>
+  <data name="SS.Text" xml:space="preserve">
+    <value>ደቡብ ሱዳን</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>ደቡብ አፍሪካ</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>ደቡብ ኮሪያ</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>ዲዬጎ ጋርሺያ</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ዴንማርክ</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ዶሚኒካ</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>ዶሚኒክ ሪፑብሊክ</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>ጀርመን</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>ጀርሲ</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>ጂቡቲ</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>ጂብራልተር</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ጃማይካ</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>ጃፓን</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ጆርዳን</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>ጆርጂያ</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>ጉርነሲ</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>ጉዋም</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ጉዋቲማላ</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>ጉዋደሉፕ</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>ጉያና</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ጊኒ</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>ጊኒ ቢሳኦ</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ጋምቢያ</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>ጋቦን</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ጋና</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>ግሪንላንድ</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ግሪክ</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>ግሬናዳ</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>ግብጽ</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ጣሊያን</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>ፈረንሳይ</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ፊሊፒንስ</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ፊንላንድ</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ፊጂ</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>ፒትካኢርን አይስላንድ</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>ፓላው</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>ፓራጓይ</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>ፓናማ</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>ፓኪስታን</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>ፓፑዋ ኒው ጊኒ</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>ፔሩ</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>ፖላንድ</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>ፖርቱጋል</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>ፖርታ ሪኮ</value>
+  </data>
+</root>

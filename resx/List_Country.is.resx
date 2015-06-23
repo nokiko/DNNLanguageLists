@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AF.Text" xml:space="preserve">
+    <value>Afganistan</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>Albanía</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>Alsír</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Andorra</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>Angóla</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>Angvilla</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>Antígva og Barbúda</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>Argentína</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>Armenía</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>Arúba</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>Ascension-eyja</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Aserbaídsjan</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>Austur-Kongó</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>Austur-Tímor</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>Austurríki</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>Álandseyjar</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Ástralía</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>Bahamaeyjar</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>Bandaríkin</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Bandaríska Samóa</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>Bandarísku Jómfrúaeyjar</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>Bangladess</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>Barbados</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Barein</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>Belgía</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>Belís</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Benín</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Bermúdaeyjar</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>Bosnía og Hersegóvína</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>Botsvana</value>
+  </data>
+  <data name="BV.Text" xml:space="preserve">
+    <value>Bouveteyja</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>Bólivía</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Brasilía</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>Bresku Indlandshafseyjar</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>Bresku Jómfrúaeyjar</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>Bretland</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>Brúnei</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>Búlgaría</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>Búrkína Fasó</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Búrúndí</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>Bútan</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>Caymaneyjar</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>Ceuta og Melilla</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Chíle</value>
+  </data>
+  <data name="CP.Text" xml:space="preserve">
+    <value>Clipperton-eyja</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>Cookseyjar</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Danmörk</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>Diego Garcia</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>Djíbútí</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>Dóminíka</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>Dóminíska lýðveldið</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>Egyptaland</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>Eistland</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>Ekvador</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>El Salvador</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>Erítrea</value>
+  </data>
+  <data name="EU.Text" xml:space="preserve">
+    <value>Evrópusambandið</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>Eþíópía</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>Falklandseyjar</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>Filippseyjar</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>Finnland</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>Fídjieyjar</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>Fílabeinsströndin</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Frakkland</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>Franska Gvæjana</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>Franska Pólýnesía</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>Frönsku suðlægu landsvæðin</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>Færeyjar</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>Gabon</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>Gambía</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>Gana</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>Georgía</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>Gíbraltar</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>Gínea</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>Gínea-Bissá</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>Grenada</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>Grikkland</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>Grænhöfðaeyjar</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>Grænland</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>Guernsey</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>Gvadelúpeyjar</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>Gvam</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>Gvatemala</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>Gvæjana</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Haítí</value>
+  </data>
+  <data name="HM.Text" xml:space="preserve">
+    <value>Heard og McDonaldseyjar</value>
+  </data>
+  <data name="AN.Text" xml:space="preserve">
+    <value>Hollensku Antillur</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>Hondúras</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>Hong Kong</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>Hvíta-Rússland</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>Indland</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>Indónesía</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>Írak</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>Íran</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Írland</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>Ísland</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>Ísrael</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Ítalía</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>Jamaíka</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Japan</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>Jemen</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>Jersey</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>Jólaey</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>Jórdanía</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>Kambódía</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Kamerún</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Kanada</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>Kanaríeyjar</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>Kasakstan</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>Katar</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>Kenía</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>Kirgisistan</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Kína</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>Kíribatí</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>Kostaríka</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>Kókoseyjar</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Kólumbía</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Kómoreyjar</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>Króatía</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>Kúba</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>Kúveit</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>Kýpur</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>Laos</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>Lesótó</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>Lettland</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>Liechtenstein</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>Litháen</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>Líbanon</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>Líbería</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>Líbía</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>Lúxemborg</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>Madagaskar</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>Makaó</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>Makedónía</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>Malasía</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>Malaví</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>Maldíveyjar</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>Malí</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>Malta</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>Marokkó</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>Marshalleyjar</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>Martiník</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>Mayotte</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>Máritanía</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>Máritíus</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Mexíkó</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>Mið-Afríkulýðveldið</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>Miðbaugs-Gínea</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>Mikrónesía</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>Mjanmar</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>Moldóva</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>Mongólía</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>Montserrat</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>Mónakó</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>Mósambík</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>Mön</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>Namibía</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>Nárú</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>Nepal</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>Niðurlönd</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>Niue</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>Níger</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>Nígería</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>Níkaragva</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>Norður-Kórea</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>Norður-Maríanaeyjar</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>Noregur</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>Norfolkeyja</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>Nýja-Kaledónía</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>Nýja-Sjáland</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>Óman</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>Pakistan</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>Palá</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>Palestína</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>Panama</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>Papúa Nýja-Gínea</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>Paragvæ</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>Páfagarður</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>Perú</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>Pitcairn</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>Portúgal</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>Pólland</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>Púertó Ríkó</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>Réunion</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>Rúanda</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>Rúmenía</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Rússland</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>Saint Barthélemy</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>Saint Martin</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>Salómonseyjar</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>Sambía</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>Sameinuðu arabísku furstadæmin</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>Samóa</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>San Marínó</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>Sankti Helena</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>Sankti Kristófer og Nevis</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>Sankti Lúsía</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>Sankti Pierre og Miquelon</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>Sankti Vinsent og Grenadíneyjar</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>Saó Tóme og Prinsípe</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>Sádi-Arabía</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>Senegal</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>Serbía</value>
+  </data>
+  <data name="CS.Text" xml:space="preserve">
+    <value>Serbía og Svartfjallaland</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>Seychelleseyjar</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>Simbabve</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>Singapúr</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>Síerra Leóne</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>Slóvakía</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>Slóvenía</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>Smáeyjar Bandaríkjanna</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>Sómalía</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Spánn</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>Srí Lanka</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>Suður-Afríka</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>Suður-Georgía og Suður-Sandvíkureyjar</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>Suður-Kórea</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>Suðurskautslandið</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>Súdan</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>Súrínam</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>Svalbarði og Jan Mayen</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>Svartfjallaland</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>Svasíland</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>Sviss</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>Svíþjóð</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>Sýrland</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>Tadsjikistan</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>Taíland</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>Taívan</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>Tansanía</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>Tékkland</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>Tonga</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>Tógó</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>Tókelá</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>Tristan da Cunha</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>Trínidad og Tóbagó</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Tsjad</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>Turks- og Caicoseyjar</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>Túnis</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>Túrkmenistan</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>Túvalú</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>Tyrkland</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>Ungverjaland</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>Úganda</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>Úkraína</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>Úrúgvæ</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>Úsbekistan</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>Vanúatú</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>Venesúela</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>Vestur-Kongó</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>Vestur-Sahara</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>Víetnam</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>Wallis- og Fútúnaeyjar</value>
+  </data>
+  <data name="QO.Text" xml:space="preserve">
+    <value>Ytri Eyjaálfa</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Þýskaland</value>
+  </data>
+</root>

@@ -1,0 +1,693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AF.Text" xml:space="preserve">
+    <value>Afɣanistan</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>Agemmaḍ Ugut d Ɣazza Ifilisṭiniyen</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>Albanya</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Almanya</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>Amur n Agaraw Uhindi Ubṛiṭani</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Anḍurra</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>Angula</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>Angwilla</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>Antigwa d Barbuda</value>
+  </data>
+  <data name="AN.Text" xml:space="preserve">
+    <value>Antil Tihulanḍiyyin</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>Arjuntin</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>Arminya</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>Aruba</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>Awank iɣrem n Vatikan</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Azerbiǧan</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>Bahamas</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Baḥrayn</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>Bangladic</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>Barbadus</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>Belɣarya</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>Beljika</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>Bilarusya</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>Biliz</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Binin</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Birmuda</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Bṛazil</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>Brunay</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>Bulivya</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>Burkina Fasu</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Burundi</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>Busna-d-Hirsik</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>Buṭan</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>Butswana</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Ccili</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Danmark</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>Ḍuminika</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>Dzayer</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>Ɛiraq</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>Ɛumman</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>Fiji</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>Filippin</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>Finlanḍa</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Fṛansa</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>Gabun</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>Gambya</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>Ǧibuti</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>Grinada</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>Grinlanḍa</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>Guyana</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>Guyana Tafransist</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>Gwadalup</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>Gwam</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>Gwatimala</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>Ɣana</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>Ɣinya</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>Ɣinya Tikwaṭur it</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>Ɣinya-Bissaw</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Hayti</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>Henɣarya</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>Hind</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>Hinduras</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>Hulanḍa</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>Ikwaḍur</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>Imarat Tiεrabin Tidduklin</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>Indunizya</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>Iran</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>Iritrya</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Irlanḍa</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>Islanḍa</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>Israeil</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>Isṭunya</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Iṭalya</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>Ityupya</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>Iwunak Idduklen n Amirika</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>Jamayka</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>Jibralṭar</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Jjappun</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>Jyurjya</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>kalidunya Tamaynut</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>Kambudj</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Kamerun</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Kanada</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>Kazaxistan</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>Kinya</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>Kirɣistan</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>Kiribati</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>Krwatya</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>kuba</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Kulumbya</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>Kungu</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>Kurya Tugafat</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>Kurya Tunẓult</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>Kusṭa Rika</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>Kuwwayt</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>Laws</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>Libirya</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>Libya</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>Lictencṭayn</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>Liksumburg</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>Lisuṭu</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>Liṭṭunya</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>Litwanya</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>Lubnan</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>Madaɣacqar</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>Malawi</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>Maldiv</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>Mali</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>Malizya</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>Malṭa</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>Manɣulya</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>Maqdunya</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>Martinik</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>Mayuṭ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>Meṛṛuk</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>Mikrunizya</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Miksik</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>Miṣr</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>Mulḍavya</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>Munaku</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>Muntsirra</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>Muris</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>Muritanya</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>Muzambiq</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>Myanmar</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>Namibya</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>Nawru</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>Nijiria</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>Nikaragwa</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>Nippal</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>Niwi</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>Nnijer</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>Nnurwij</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>Pakistan</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>Palu</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>Panama</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>Papwa Ɣinya Tamaynut</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>Paragway</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>Piru</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>Pitkirn</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>Pulinizya Tafransist</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>Pulunya</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>Purtuɣal</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>Purturiku</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>Qaṭar</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>Qubrus</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Qumur</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>Riyyunyun</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>Ṛumanya</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Rusya</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>Ruwwanḍa</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>Salvaḍur</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>Samwa</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Samwa Imirikaniyyin</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>Sanɣafura</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>Sanmarinu</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>Santehilin</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>Santekits d Nivis</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>Santelusya</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>Santepyir d Mikelun</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>Santevinsent d Grinadin</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>Sawṭumi d Prinsip</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Sbanya</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>Siralyun</value>
+  </data>
+  <data name="CS.Text" xml:space="preserve">
+    <value>Ṣiṛbya d Muntinigru</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>Sluvakya</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>Sluvinya</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>Srilanka</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>Ssaεudiyya Taεrabt</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>Ssewwid</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>Ssicil</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Ṣṣin</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>Ssiniɣal</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>Ssudan</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>Ṣṣumal</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>Surinam</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>Surya</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>Swazilanḍa</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>Swisra</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>Tafrikt Tunẓul</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>Tagduda n Afrika Wammas</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>Tagduda n Čik</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>Tagduda n Ḍuminikan</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>Tagduda Tadimuqraṭit n Kungu</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>Tagelda Taddukelt</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>Ṭaǧikistan</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>Taɣazut n Uszer</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>Ṭanzanya</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>Ṭaylanḍa</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>Ṭaywan</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Tcad</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>Tigzirin (Virgin) Tibṛiṭaniyin</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>Tigzirin n Falkland</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>Tigzirin n Iɣf Uzegzaw</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>Tigzirin n Kayman</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>Tigzirin n Kuk</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>Tigzirin n Marcal</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>Tigzirin n Maryana Tugafat</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>Tigzirin n Salumun</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>Tigzirin n Virjin n Iwunak Yedduklen</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>Tigzirin Turkiyyin d Tikaykusin</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>Tigzirt Nurfulk</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>Timur Tagmuṭ</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>Trinidad d Ṭubagu</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>Ṭṭugu</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>Tuklu</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>Tunes</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>Ṭunga</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>Turkmanistan</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>Turkya</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>Ṭuvalu</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>Uɣanda</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>Ukranya</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>Urḍun</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>Urugway</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Usṭralya</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>Ustriyya</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>Uzbakistan</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>Vanwatu</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>Vinzwilla</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>Viṭnam</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>Walis d Futuna</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>Yaman</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>Yunan</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>Zambya</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>Zilanḍa Tamaynut</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>Zimbabwi</value>
+  </data>
+</root>

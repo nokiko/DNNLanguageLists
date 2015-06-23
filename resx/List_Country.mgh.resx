@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>Afrika du Sulu</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>Alujeria</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Italia</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>Paragwai</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>Ualbania</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Uandora</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Uayalandi</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Uazabajani</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Ubelin</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>Ubukini</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Uchadi</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>Ucheki</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Uchile</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Uchina</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Udenimaka</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>Udominika</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Ufaransa</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>Ufaransa yo Gwaya</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>Ufaransa yo Potina</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>Ufiji</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>Ufilipino</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>Ufini</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>Ufugustani</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>Ugaboni</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>Ugambia</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>Ugana</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>Ugine</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>Uginebisau</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>Ugrenada</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>Ugrinlandi</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>Uguyana</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>Ugwadelupe</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>Ugwam</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>Ugwatemala</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>Uhabeshi</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Uhaiti</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>Uhindini</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Uhispania</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>Uhondurasi</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>Uhungaria</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>Uisraeli</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>Ujamaika</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Ujapani</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>Ujibralta</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>Ujibuti</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>Ujikistani</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>Ujojia</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>Ukambodia</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Ukanada</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>Ukatari</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>Ukazakistani</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>Ukenya</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>Ukodiva</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Ukolombia</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Ukomoro</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>Ukongo</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>Ukorasia</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>Ukorea Kaskazini</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>Ukorea Kusini</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>Ukuba</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>Ukuprosi</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>Ulativia</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>Ulebanoni</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>Ulesoto</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>Uliberia</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>Ulibya</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>Umalawi</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>Umantegro</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>Umarekani</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>Umasedonia</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>Umisiri</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>Umozambiki</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>Undonesia</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>Unijeri</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>Unijeria</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>Unorwe</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>Uomani</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>Upakistani</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>Upanama</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>Upapua</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>Uperuu</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>Upitkairni</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>Upolandi</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>Upwetoriko</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>Uriterea</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>Uriyunioni</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>Uromania</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Urundi</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>Urwanda</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>Usalavado</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>Usamarino</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>Usamoa</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Usamoa ya Marekani</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>Usantahelena</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>Usantakitzi na Nevis</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>Usantalusia</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>Usantapieri na Mikeloni</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>Usantavisenti na Grenadini</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>Usao Tome na Principe</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>Usaudi</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>Usembaji</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>Usenegali</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>Ushelisheli</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>Ushenteni</value>
+  </data>
+  <data name="CS.Text" xml:space="preserve">
+    <value>Usiera Leoni</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>Usingapoo</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>Usiria</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>Usirilanka</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>Uslovakia</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>Uslovenia</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>Usomalia</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>Usudani</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>Usurinamu</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>Uswazi</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>Uswidi</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>Uswisi</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>Utailandi</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>Utanzania</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>Utimo Mashariki</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>Utogo</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>Utokelau</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>Utonga</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>Utrinidad na Tobago</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>Utuki</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>Utunisia</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>Uturukimenistani</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>Utuvalu</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>Utwania</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>Uvanuatu</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>Uvatikani</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>Uvenezuela</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>Uvietinamu</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>Uwalis na Futuna</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>Uyemeni</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>Uyordani</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>Uzambia</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>Uzimbabwe</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>Wiraki</value>
+  </data>
+</root>

@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AT.Text" xml:space="preserve">
+    <value>ଅଷ୍ଟ୍ରିଆ</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>ଅଷ୍ଟ୍ରେଲିଆ</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>ଆଇବରୀ କୋଷ୍ଟ</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>ଆଇଲ୍ ଅଫ୍ ମୈନ୍</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>ଆଇସଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="QO.Text" xml:space="preserve">
+    <value>ଆଉଟଲେଇଂ ଓସେନିଆ</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>ଆଙ୍ଗୁଇଲ୍ଲା</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>ଆଙ୍ଗୋଲା</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>ଆଜେରବାଇଜାନ୍</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>ଆଣ୍ଟିଗୁଆ ଏବଂ ବାରବୁଦା</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>ଆଣ୍ଡୋରା</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>ଆଫାଗାନିସ୍ତାନ୍</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>ଆମେରିକାନ୍ ସାମୋଆ</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>ଆୟରଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>ଆରୁବା</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>ଆର୍ଜେଣ୍ଟିନା</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>ଆର୍ଣ୍ଟକଟିକା</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>ଆର୍ମେନିଆ</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>ଆଲଜେରିଆ</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>ଆଲବାନିଆ</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>ଆଲାଣ୍ଡ ଆଇସଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>ଇକ୍ବାଟେରିଆଲ୍ ଗୁଇନିଆ</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>ଇକ୍ୱାଡୋର୍</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>ଇଜିପ୍ଟ</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ଇଟାଲୀ</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>ଇଣ୍ଡୋନେସିଆ</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>ଇଥିଓପିଆ</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>ଇରାକ୍</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>ଇରାନ୍</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>ଇରିଟ୍ରିୟା</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>ଇସ୍ରାଏଲ୍</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>ଉଗାଣ୍ଡା</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>ଉଜବେକିସ୍ଥାନ୍</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>ଉତ୍ତର କୋରିଆ</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>ଉତ୍ତର ମାରିଆନା ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>ଉରୁଗୁଏ</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>ଏଲ୍ ସାଲଭାଡୋର୍</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>ଏସ୍ତୋନିଆ</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>ଓମାନ୍</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>କଙ୍ଗୋ-କିନସାସା</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>କଙ୍ଗୋ-ବ୍ରାଜିଭିଲ୍ଲେ</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>କତାର୍</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>କାଜାକାସ୍ଥାନ୍</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>କାନାଡା</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>କାମେରୁନ୍</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>କାମୋରସ୍</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>କାମ୍ବୋଡିଆ</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>କିରିବାଟୀ</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>କିର୍ଗିଜିସ୍ଥାନ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>କୁଏତ୍</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>କୁକ୍ ଆଇସଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>କେନିୟା</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>କେପ୍ ଭର୍ଦେ</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>କେମ୍ୟାନ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>କୋକୋସ୍ ଆଇସଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>କୋଲମ୍ବିଆ</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>କୋଷ୍ଟା ରିକା</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>କ୍ରୋଆଟିଆ</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>କ୍ୱିବା</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>ଖ୍ରୀଷ୍ଟମାସ ଆଇଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>ଗାବୋନ୍</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ଗାମ୍ବିଆ</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>ଗୁଆମ୍</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>ଗୁଇନା</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>ଗୁଇନିଆ-ବିସାଉ</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ଗୁଏତମାଲା</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ଗୁଏନେଆ</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>ଗୁଏରନେସି</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>ଗୌଡେଲୌପେ</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>ଗ୍ରୀନଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ଗ୍ରୀସ୍</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>ଗ୍ରେନାଡା</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ଘାନା</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>ଚାଦ୍</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>ଚିନ୍</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>ଚିଲ୍ଲୀ</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>ଚେକ୍ ସାଧାରଣତନ୍ତ୍ର</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>ଜର୍ଜିଆ</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>ଜର୍ମାନୀ</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>ଜର୍ସି</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>ଜାପାନ୍</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ଜାମାଇକା</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>ଜାମ୍ବିଆ</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>ଜିବ୍ରାଲ୍ଟର୍</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>ଜିମ୍ବାୱେ</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ଜୋର୍ଡାନ୍</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>ଟୁଭାଲୁ</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>ଟୋକେଲାଉ</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>ଟୋଗୋ</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>ଟୋଙ୍ଗା</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>ଡିବୌଟି</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ଡେନମାର୍କ</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>ଡୋମିନକାନ୍ ପ୍ରଜାତନ୍ତ୍ର</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ଡୋମିନାକା</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>ତାଇୱାନ୍</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>ତାଜିକିସ୍ଥାନ୍</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>ତାଞ୍ଜାନିଆ</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>ତୁନିସିଆ</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>ତୁର୍କମେନିସ୍ତାନ୍</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>ତୁର୍କସ୍ ଏବଂ ସାଇକସ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>ତୁର୍କୀ</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>ତ୍ରିନିଦାଦ୍ ଏବଂ ଟୋବାଗୋ</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>ଥାଇଲାଣ୍ଡ</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>ଦକ୍ଷିଣ ଆଫ୍ରିକା</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>ଦକ୍ଷିଣ କୋରିଆ</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>ଦକ୍ଷିଣ ଜର୍ଜିଆ ଏବଂ ଦକ୍ଷିଣ ସାଣ୍ଡୱିଚ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>ନରଫ୍ଲକ୍ ଦ୍ବୀପ</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>ନରୱେ</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>ନାଇଜର୍</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>ନାଇଜେରିଆ</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>ନାଉରୁ</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>ନାମ୍ବିଆ</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>ନିଉ</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>ନିକାରାଗୁଆ</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>ନୂତନ କାଲେଡୋନିଆ</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>ନେଦରଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="AN.Text" xml:space="preserve">
+    <value>ନେଦରଲ୍ୟାଣ୍ଡସ୍ ଆଣ୍ଟିଲିଜ୍</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>ନେପାଳ</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>ନ୍ୟୁଜିଲାଣ୍ଡ</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>ପପୁଆ ନ୍ୟୁ ଗୁଏନିଆ</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>ପର୍ତ୍ତୁଗାଲ୍</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>ପଶ୍ଚିମ ସାହାରା</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>ପାକିସ୍ତାନ</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>ପାନାମା</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>ପାରାଗୁଏ</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>ପାଲାଉ</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>ପାଲେସ୍ତେନିଆ</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>ପିଟକାଇରିନ୍</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>ପୁଏର୍ତ୍ତୋ ରିକୋ</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>ପୁର୍ବ ତିମୋର୍</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>ପେରୁ</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>ପୋଲାଣ୍ଡ</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>ଫରାସୀ ଦକ୍ଷିଣ କ୍ଷେତ୍ର</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>ଫଲ୍କଲ୍ୟାଣ୍ଡ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>ଫାରୋଇ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ଫିଜି</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ଫିନଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ଫିଲିପାଇନସ୍</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>ଫ୍ରାନ୍ସ</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>ଫ୍ରେଞ୍ଚ ଗୁଇନା</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>ଫ୍ରେଞ୍ଚ ପଲିନେସିଆ</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>ବରମୁଡା</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>ବାଙ୍ଗଲାଦେଶ୍</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>ବାରବାଡୋସ୍</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>ବାହାମାସ୍</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>ବାହାରିନ୍</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>ବୁରୁନ୍ଦି</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>ବୁର୍କିନୋ ଫାସୋ</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>ବୁଲଗେରିଆ</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>ବେନିନ୍</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>ବେଲଜିୟମ୍</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>ବେଲାରୁଷ୍</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>ବେଲିଜ୍</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>ବୋଟସ୍ବାନ୍</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>ବୋଲଭିଆ</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>ବୋସନିଆ ଏବଂ ହର୍ଜଗୋଭିନା</value>
+  </data>
+  <data name="BV.Text" xml:space="preserve">
+    <value>ବୌଭେଟ୍ ଆଇସଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>ବ୍ରାଜିଲ୍</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>ବ୍ରିଟିଶ୍ ଭର୍ଜିନ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>ବ୍ରିଟିଶ୍ ଭାରତୀୟ ସାମୁଦ୍ରିକ କ୍ଷେତ୍ର</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>ବ୍ରିଟେନ୍</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>ବ୍ରୁନେଇ</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>ଭାଟିକାନ୍</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>ଭାନୁଆତୁ</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ଭାରତ</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>ଭିଏତନାମ୍</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>ଭୁଟାନ୍</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>ଭେନଜୁଏଲା</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>ମଙ୍ଗୋଲିଆ</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>ମଣ୍ଟେଗ୍ରୋ</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>ମଣ୍ଟେସେରାଟ୍</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>ମଧ୍ୟ ଆଫ୍ରିକୀୟ ଗଣତନ୍ତ୍ର</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>ମାଇକ୍ରୋନେସିଆ</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>ମାଉରିଟାନିଆ</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>ମାକାଉ SAR ଚିନ୍</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>ମାଡାଗାସ୍କର୍</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>ମାୟୋଟେ</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>ମାର୍ଟିନିକ୍ୟୁ</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>ମାର୍ଶଲ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>ମାଲଡୋଭା</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>ମାଲୱି</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>ମାଲେସିଆ</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>ମାଲ୍ଟା</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>ମାଳଦ୍ବୀପ</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>ମାଳୀ</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>ମାସେଡୋନିଆ</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>ମିୟାମାର୍</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>ମେକ୍ସିକୋ</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>ମୋଜାମ୍ବିକ୍ୟୁ</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>ମୋନାକୋ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>ମୋରୋକ୍କୋ</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>ମୌରିସସ୍</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>ୟୁଏସ୍ ଭର୍ଜିନ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>ୟୁକ୍ରାଇନ୍</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>ୟୁନାଇଟେଡ୍ ଷ୍ଟେଟସ୍ ମାଇନର୍ ଆଉଟଲେଇଂ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="EU.Text" xml:space="preserve">
+    <value>ୟୁରୋପିଆନ୍ ୟୁନିଅନ୍</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>ୟେମେନ୍</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>ରାୱାଣ୍ଡା</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>ରିୟୁନିଅନ୍</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>ରୁଷିଆ</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>ରୋମାନିଆ</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>ଲକ୍ସେମବର୍ଗ</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>ଲାଓସ୍</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>ଲାଟଭିଆ</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>ଲିଚେସ୍ତିଆନାନ୍</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>ଲିଥାଆନିଆ</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>ଲିବିଆ</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>ଲିବେରିଆ</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>ଲେବାନନ୍</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>ଲେସୋଥୋ</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>ୱାଲିସ୍ ଏବଂ ଫୁତୁନା</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>ଶ୍ରୀଲଙ୍କା</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>ସଂଯୁକ୍ତ ଆରବ ଏମିରେଟସ୍</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>ସର୍ବିଆ</value>
+  </data>
+  <data name="CS.Text" xml:space="preserve">
+    <value>ସର୍ବିଆ ଏବଂ ମଣ୍ଟେନଗ୍ରୋ</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>ସାଇପ୍ରସ୍</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>ସାଉଦି ଆରବିଆ</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>ସାଓ ଟୋମେ ଏବଂ ପ୍ରିନସିପି</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>ସାନ୍ ମାରିନୋ</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>ସାମୋଆ</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>ସାଲ୍ଭାର୍ଡ ଏବଂ ଜାନ୍ ମାୟୋନ୍</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>ସିଓରା ଲିଓନ୍</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>ସିଙ୍ଗାପୁର୍</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>ସିରିଆ</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>ସୁଦାନ୍</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>ସୁରିନାମ</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>ସେଚେଲସ୍</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>ସେଣ୍ଟ କିଟସ୍ ଏଣ୍ଡ ନେଭିସ୍</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>ସେଣ୍ଟ ପିଏରେ ଏବଂ ମିକ୍ବାଲୋନ୍</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>ସେଣ୍ଟ ବାର୍ଥେଲେମି</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>ସେଣ୍ଟ ଭିନସେଣ୍ଟ ଏବଂ ଦି ଗ୍ରେନାଡିସ୍</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>ସେଣ୍ଟ ମାର୍ଟିନ୍</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>ସେଣ୍ଟ ଲୁସିଆ</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>ସେଣ୍ଟ ହେଲେନା</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>ସେନେଗାଲ୍</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>ସୋମାଲିଆ</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>ସୋଲୋମନ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>ସ୍ପେନ୍</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>ସ୍ବାଜିଲାଣ୍ଡ</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>ସ୍ବିଜରଲ୍ୟାଣ୍ଡ</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>ସ୍ଲୋଭାକିଆ</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>ସ୍ଲୋଭେନିଆ</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>ସ୍ୱେଡେନ୍</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>ହଂକଂ ବିଶେଷ ପ୍ରଶାସନିକ କ୍ଷେତ୍ର ଚୀନ୍</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>ହଙ୍ଗେରୀ</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>ହାଇତି</value>
+  </data>
+  <data name="HM.Text" xml:space="preserve">
+    <value>ହାର୍ଡ ଦ୍ବୀପପୁଞ୍ଜ ଏବଂ ମ୍ୟାକଡୋନାଲ୍ ଦ୍ବୀପପୁଞ୍ଜ</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>ହୋଣ୍ଡାରୁସ୍</value>
+  </data>
+</root>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Brazil</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>France</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Germany</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>India</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Italy</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>Itoophiyaa</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Japan</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>Keeniyaa</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Russia</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>United Kingdom</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>United States</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>China</value>
+  </data>
+</root>

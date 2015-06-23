@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="SH.Text" xml:space="preserve">
+    <value>Αγία Ελένη</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>Αγία Λουκία</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>Άγιος Βαρθολομαίος</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>Άγιος Βικέντιος και Γρεναδίνες</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>Άγιος Μαρίνος</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>Άγιος Μαρτίνος (Γαλλικό τμήμα)</value>
+  </data>
+  <data name="SX.Text" xml:space="preserve">
+    <value>Άγιος Μαρτίνος (Ολλανδικό τμήμα)</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>Άγιος Χριστόφορος και Νέβις</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Αζερμπαϊτζάν</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>Αίγυπτος</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>Αιθιοπία</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Αϊτή</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>Ακτή Ελεφαντοστού</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>Αλβανία</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>Αλγερία</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>Αμερικανικές Παρθένοι Νήσοι</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Αμερικανική Σαμόα</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>Ανγκόλα</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>Ανγκουίλα</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Ανδόρα</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>Ανταρκτική</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>Αντίγκουα και Μπαρμπούντα</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>Απομακρυσμένες Νησίδες Η.Π.Α.</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>Αργεντινή</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>Αρμενία</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>Αρούμπα</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Αυστραλία</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>Αυστρία</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>Αφγανιστάν</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>Βανουάτου</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>Βατικανό</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>Βέλγιο</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>Βενεζουέλα</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Βερμούδες</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>Βιετνάμ</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>Βολιβία</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>Βόρεια Κορέα</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>Βοσνία - Ερζεγοβίνη</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>Βουλγαρία</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Βραζιλία</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>Βρετανικά Εδάφη Ινδικού Ωκεανού</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>Βρετανικές Παρθένοι Νήσοι</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Γαλλία</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>Γαλλικές περιοχές του νοτίου ημισφαιρίου</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>Γαλλική Γουιάνα</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>Γαλλική Πολυνησία</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Γερμανία</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>Γεωργία</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>Γιβραλτάρ</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>Γκάμπια</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>Γκαμπόν</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>Γκάνα</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>Γκέρνζι</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>Γκουάμ</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>Γουαδελούπη</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>Γουατεμάλα</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>Γουιάνα</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>Γουινέα</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>Γουινέα Μπισάου</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>Γρενάδα</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>Γροιλανδία</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Δανία</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>Δομινικανή Δημοκρατία</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>Δυτική Σαχάρα</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>Εκουαδόρ</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>Ελ Σαλβαδόρ</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>Ελβετία</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>Ελλάδα</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>Ερυθραία</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>Εσθονία</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>Ζάμπια</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>Ζιμπάμπουε</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>Ηνωμένα Αραβικά Εμιράτα</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>Ηνωμένες Πολιτείες</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>Ηνωμένο Βασίλειο</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>Θεούτα και Μελίλα</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Ιαπωνία</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>Ινδία</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>Ινδονησία</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>Ιορδανία</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>Ιράκ</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>Ιράν</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Ιρλανδία</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>Ισημερινή Γουινέα</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>Ισλανδία</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Ισπανία</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>Ισραήλ</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Ιταλία</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>Καζακστάν</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Καμερούν</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>Καμπότζη</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Καναδάς</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>Κανάριοι Νήσοι</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>Κατάρ</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>Κεντροαφρικανική Δημοκρατία</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>Κένυα</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Κίνα</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>Κιργιστάν</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>Κιριμπάτι</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Κολομβία</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Κομόρες</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>Κονγκό - Κινσάσα</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>Κονγκό - Μπραζαβίλ</value>
+  </data>
+  <data name="XK.Text" xml:space="preserve">
+    <value>Κόσοβο</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>Κόστα Ρίκα</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>Κούβα</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>Κουβέιτ</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>Κουρασάο</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>Κροατία</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>Κύπρος</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>Λάος</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>Λεσότο</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>Λετονία</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>Λευκορωσία</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>Λίβανος</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>Λιβερία</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>Λιβύη</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>Λιθουανία</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>Λιχτενστάιν</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>Λουξεμβούργο</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>Μαγιότ</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>Μαδαγασκάρη</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>Μακάο ΕΔΠ Κίνας</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>Μαλαισία</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>Μαλάουι</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>Μαλδίβες</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>Μάλι</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>Μάλτα</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>Μαρόκο</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>Μαρτινίκα</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>Μαυρίκιος</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>Μαυριτανία</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>Μαυροβούνιο</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Μεξικό</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>Μιανμάρ/Βιρμανία</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>Μικρονησία</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>Μογγολία</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>Μοζαμβίκη</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>Μολδαβία</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>Μονακό</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>Μονσεράτ</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>Μπανγκλαντές</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>Μπαρμπάντος</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>Μπαχάμες</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Μπαχρέιν</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>Μπελίζ</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Μπενίν</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>Μποτσουάνα</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>Μπουρκίνα Φάσο</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Μπουρούντι</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>Μπουτάν</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>Μπρουνέι</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>Ναμίμπια</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>Ναουρού</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>Νέα Ζηλανδία</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>Νέα Καληδονία</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>Νεπάλ</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>Νήσοι Βόρειες Μαριάνες</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>Νήσοι Κάιμαν</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>Νήσοι Κόκος (Κίλινγκ)</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>Νήσοι Κουκ</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>Νήσοι Μάρσαλ</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>Νήσοι Όλαντ</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>Νήσοι Πίτκερν</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>Νήσοι Σολομώντος</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>Νήσοι Τερκ και Κάικος</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>Νήσοι Φερόες</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>Νήσοι Φόκλαντ</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>Νήσος Ασενσιόν</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>Νήσος Μαν</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>Νήσος Νόρφολκ</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>Νήσος των Χριστουγέννων</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>Νίγηρας</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>Νιγηρία</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>Νικαράγουα</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>Νιούε</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>Νορβηγία</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>Νότια Αφρική</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>Νότια Κορέα</value>
+  </data>
+  <data name="SS.Text" xml:space="preserve">
+    <value>Νότιο Σουδάν</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>Ντιέγκο Γκαρσία</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>Ντομίνικα</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>Ολλανδία</value>
+  </data>
+  <data name="BQ.Text" xml:space="preserve">
+    <value>Ολλανδία Καραϊβικής</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>Ομάν</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>Ονδούρα</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>Ουάλις και Φουτούνα</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>Ουγγαρία</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>Ουγκάντα</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>Ουζμπεκιστάν</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>Ουκρανία</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>Ουρουγουάη</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>Πακιστάν</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>Παλαιστινιακά Εδάφη</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>Παλάου</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>Παναμάς</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>Παπούα Νέα Γουινέα</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>Παραγουάη</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>Περού</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>Πολωνία</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>Πορτογαλία</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>Πουέρτο Ρίκο</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>Πράσινο Ακρωτήριο</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>Πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>Ρεϊνιόν</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>Ρουάντα</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>Ρουμανία</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Ρωσία</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>Σαμόα</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>Σάο Τομέ και Πρίνσιπε</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>Σαουδική Αραβία</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>Σβάλμπαρντ και Γιαν Μαγιέν</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>Σεν Πιερ και Μικελόν</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>Σενεγάλη</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>Σερβία</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>Σεϋχέλλες</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>Σιγκαπούρη</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>Σιέρα Λεόνε</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>Σλοβακία</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>Σλοβενία</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>Σομαλία</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>Σουαζιλάνδη</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>Σουδάν</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>Σουηδία</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>Σουρινάμ</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>Σρι Λάνκα</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>Συρία</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>Ταϊβάν</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>Ταϊλάνδη</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>Τανζανία</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>Τατζικιστάν</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>Τζαμάικα</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>Τζέρζι</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>Τζιμπουτί</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>Τιμόρ-Λέστε</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>Τόγκο</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>Τοκελάου</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>Τόνγκα</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>Τουβαλού</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>Τουρκία</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>Τουρκμενιστάν</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>Τρινιντάντ και Τομπάγκο</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>Τριστάν ντα Κούνια</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Τσαντ</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>Τσεχική Δημοκρατία</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>Τυνησία</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>Υεμένη</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>Φιλιππίνες</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>Φινλανδία</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>Φίτζι</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Χιλή</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>Χονγκ Κονγκ ΕΔΠ Κίνας</value>
+  </data>
+</root>

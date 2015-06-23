@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Австралия</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>Австрия</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>АҚШ</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Алмания</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Андорра</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Әзербайжан</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Бахрейн</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>Беларусь</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>Белиз</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>Бельгия</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Бенин</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>Болгария</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>Боливия</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>Ботсвана</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Бразилия</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Бурунди</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>Бутан</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>Біріккен Араб Эмираттары</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>Голландия</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>Гонконг (арнайы әкімшілік аймақ)</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>Грекия</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Дания</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Жапония</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>Индия</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>Индонезия</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Ирландия</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Испания</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Италия</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Камерун</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Канада</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Колумбия</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>Қазақстан</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Қытай</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Мексика</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>Норвегия</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>Оңтүстік Африка республикасы</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>Польша</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>Португалия</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Ресей</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>Сауд Арабиясы</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>Солтүстік Корея</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>Тайвань</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>Тайланд</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>Түркия</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>Ұлыбритания</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>Финляндия</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Франция</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Чили</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>Швейцария</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>Швеция</value>
+  </data>
+</root>

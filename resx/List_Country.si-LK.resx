@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="IE.Text" xml:space="preserve">
+    <value>අයර්ලන්තය</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>අයිල් ඔෆ් මෑන්</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>අයිස්ලන්තය</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>අරුබාව</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>අසර්බයිජානය</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>ආර්ජෙන්ටිනාව</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>ආර්මේනියාව</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>ඇන්ගුයිලාව</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>ඇන්ගෝලාව</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>ඇන්ටාක්ටිකාව</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>ඇන්ටිගුවා සහ බාබියුඩාව</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>ඇන්ඩෝරාව</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>ඇමරිකානු වර්ජින් දූපත්</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>ඇමරිකානු සැමෝවාව</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>ඇල්ජීරියාව</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>ඇල්බේනියාව</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>ඇසෙන්ෂන් දිවයින</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>ඇෆ්ගනිස්ථානය</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>ඉක්වදෝරය</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ඉතාලිය</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>ඉතියෝපියාව</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ඉන්දියාව</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>ඉන්දුනීසියාව</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>ඉරාකය</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>ඉරානය</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>ඊජිප්තුව</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>ඊශ්‍රායලය</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>උගන්ඩාව</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>උතුරු කොරියාව</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>උතුරු මරියානා දූපත්</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>උරුගුවේ</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>උස්බෙකිස්ථානය</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>එක්සත් අරාබි එමිර් රාජ්‍යය</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>එක්සත් ජනපද ඈත දූපත්</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>එක්සත් ජනපදය</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>එක්සත් රාජධානිය</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>එරිත්‍රියාව</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>එල් සැල්වදෝරය</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>එස්තෝනියාව</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>ඔස්ට්‍රියාව</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>ඕමානය</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>ඕලන්ඩ් දූපත්</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>ඕස්ට්‍රේලියාව</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>කටාර්</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>කසකස්තානය</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>කාම්බෝජය</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>කැනඩාව</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>කැනරි සූපත්</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>කැමරූන්</value>
+  </data>
+  <data name="BQ.Text" xml:space="preserve">
+    <value>කැරිබියානු නෙදර්ලන්තය</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>කියුබාව</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>කිරිබති</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>කිර්ගිස්තානය</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>කුක් දූපත්</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>කුරකාවෝ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>කුවේටය</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>කෙන්යාව</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>කේප් වර්ඩ්</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>කේමන් දූපත්</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>කොංගො - කින්ශාසා</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>කොංගො - බ්‍රසාවිල්</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>කොකෝස් දූපත්</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>කොමොරෝස්</value>
+  </data>
+  <data name="XK.Text" xml:space="preserve">
+    <value>කොසෝවෝ</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>කොස්ටරිකාව</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>කොළොම්බියාව</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>කෝට් දි අයිවරි</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>ක්‍රිස්මස් දූපත</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>ක්‍රොඒෂියාව</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>ගයනාව</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>ගර්න්සිය</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>ගැබොන්</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ගැම්බියාව</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ගිණියාව</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>ගිනි බිසව්</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>ගුවාම්</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ගෝතමාලාව</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>ග්‍රැනඩාව</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>ග්‍රීන්ලන්තය</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ග්‍රීසිය</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>ග්වෝඩලෝප්</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ඝානාව</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>චැච්</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>චිලී</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>චීනය</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>චෙක් ජනරජය</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>ජපානය</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>ජර්මනිය</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>ජර්සි</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ජැමෙයිකාව</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>ජිබුටි</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>ජිබ්‍රෝල්ටාව</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>ජෝර්ජියාව</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ජෝර්දානය</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>ටජිකිස්තානය</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>ටර්ක්මෙනිස්ථානය</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>ටර්ක්ස් සහ කයිකොස් දූපත්</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>ටැන්සානියාව</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>ටිමෝර් - ලෙස්ත්</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>ටියුනීසියාව</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>ටුවාලූ</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>ටොංගා</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>ටොකලාවු</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>ටොගෝ</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>ට්‍රිනිඩෑඩ් සහ ටොබැගෝ</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>ට්‍රිස්ටන් ද කුන්හා</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ඩෙන්මාර්කය</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>ඩොමිනිකා ජනරජය</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ඩොමිනිකාව</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>තායිලන්තය</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>තායිවානය</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>තුර්කිය</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>දකුණු අප්‍රිකාව</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>දකුණු කොරියාව</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>දකුණු ජෝර්ජියාව සහ දකුණු සැන්ඩ්විච් දූපත්</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>දකුණු ප්‍රංශ දූපත් සමූහය</value>
+  </data>
+  <data name="SS.Text" xml:space="preserve">
+    <value>දකුණු සුඩානය</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>දියාගෝ ගාර්සියා</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>නයිජර්</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>නයිජීරියාව</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>නව කැලිඩෝනියාව</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>නවසීලන්තය</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>නාවුරු</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>නැමීබියාව</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>නිකරගුවාව</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>නියූ</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>නෙදර්ලන්තය</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>නේපාලය</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>නෝර්වේ</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>නෝෆෝක් දූපත</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>පලස්තීන රාජ්‍යය</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>පලාවු</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>පාකිස්තානය</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>පැනමාව</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>පැපුවා නිව් ගිනියාව</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>පැරගුවේ</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>පිට්කෙය්න් දූපත්</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>පිලිපීනය</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>පුවර්ටෝ රිකෝ</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>පෘතුගාලය</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>පේරු</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>පෝලන්තය</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>ප්‍රංශ ගයනාව</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>ප්‍රංශ පොලිනීසියාව</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>ප්‍රංශය</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>බංග්ලාදේශය</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>බටහිර සහරාව</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>බර්කිනා ෆාසෝ</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>බර්මියුඩා</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>බල්ගේරියාව</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>බහමාස්</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>බහරේන්</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>බාර්බඩෝස්</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>බුරුන්දි</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>බෲනායි</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>බෙනින්</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>බෙලරුස්</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>බෙලීස්</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>බෙල්ජියම</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>බොට්ස්වානා</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>බොලීවියාව</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>බොස්නියාව සහ හර්සගොවීනාව</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>බ්‍රසීලය</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>බ්‍රිතාන්‍ය ඉන්දීය සාගර බල ප්‍රදේශය</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>බ්‍රිතාන්‍ය වර්ජින් දූපත්</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>භූතානය</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>මකාවු චීන විශේෂ පරිපාලන කලාපය</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>මධ්‍යම අප්‍රිකානු ජනරජය</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>මයික්‍රොනීසියාව</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>මයෝට්</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>මර්ටිනික්</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>මලාවි</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>මාල දිවයින</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>මාලි</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>මාෂල් දූපත්</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>මැඩගස්කරය</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>මැලේසියාව</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>මැසිඩෝනියාව</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>මියන්මාරය (බුරුමය)</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>මුරුසිය</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>මෙක්සිකෝව</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>මොනැකෝව</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>මොන්ගෝලියාව</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>මොන්ටෙනීග්‍රෝ</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>මොන්සෙරාට්</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>මොරිටේනියාව</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>මොරොක්කෝව</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>මොල්ඩෝවාව</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>මොසැම්බික්</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>මෝල්ටාව</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>යුක්රේනය</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>යේමනය</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>රීයුනියන්</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>රුමේනියාව</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>රුවන්ඩාව</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>රුසියාව</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>ලක්ශම්බර්ග්</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>ලයිබීරියාව</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>ලාඕසය</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>ලැට්වියාව</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>ලික්ටන්ස්ටයින්</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>ලිතුවේනියාව</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>ලිබියාව</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>ලෙබනනය</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>ලෙසතෝ</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>වතිකානු නගරය</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>වනුවාටු</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>වැලිස් සහ ෆුටුනා</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>වියට්නාමය</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>වෙනිසියුලාව</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>ශාන්ත කිට්ස් සහ නේවිස්</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>ශාන්ත පියරේ සහ මැකෝලන්</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>ශාන්ත බර්තලෙමි</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>ශාන්ත මාර්ටින්</value>
+  </data>
+  <data name="SX.Text" xml:space="preserve">
+    <value>ශාන්ත මාර්ටෙන්</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>ශාන්ත ලුසියා</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>ශාන්ත වින්සන්ට් සහ ග්‍රෙනඩින්ස්</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>ශාන්ත හෙලේනා</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>ශ්‍රී ලංකාව</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>සමක ගිනියාව</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>සයිප්‍රසය</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>සර්බියාව</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>සාඕ තෝම් සහ ප්‍රින්සිප්</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>සැන් මැරිනෝ</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>සැමෝවා</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>සැම්බියාව</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>සිංගප්පූරුව</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>සිම්බාබ්වේ</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>සියරාලියෝන්</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>සිරියාව</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>සීශෙල්ස්</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>සුරිනාමය</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>සූඩානය</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>සෙනගාලය</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>සෙයුටා සහ මෙලිල්ලා</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>සොලමන් දූපත්</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>සෝමාලියාව</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>සෞදි අරාබිය</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>ස්පාඤ්ඤය</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>ස්ලෝවැකියාව</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>ස්ලෝවේනියාව</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>ස්වාසිලන්තය</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>ස්විස්ටර්ලන්තය</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>ස්වීඩනය</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>ස්වෙල්බර්ඩ් සහ ජේන් මයේන්</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>හන්ගේරියාව</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>හයිටි</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>හොංකොං චීන විශේෂ පරිපාලන කලාපය</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>හොන්ඩුරාස්</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>ෆැරෝ දූපත්</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ෆින්ලන්තය</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ෆීජී</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>ෆෝක්ලන්ත දූපත්</value>
+  </data>
+</root>

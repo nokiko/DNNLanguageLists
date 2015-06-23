@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>Aotearoa</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>Aupuni Mōʻī Hui Pū ʻIa</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Iāpana</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>Helene</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>Hōlani</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Kanakā</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Kelemānia</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Kenemaka</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Kepania</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Kina</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Lūkia</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Mekiko</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Nūhōlani</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Palani</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ʻĀina Pilipino</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ʻAmelika Hui Pū ʻIa</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ʻĪkālia</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>ʻIlelani</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ʻĪnia</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>ʻIseraʻela</value>
+  </data>
+</root>

@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="UG.Text" xml:space="preserve">
+    <value>אוגנדה</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>אוזבקיסטן</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>אוסטריה</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>אוסטרליה</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>אוקראינה</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>אורוגוואי</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>אזרבייג׳ן</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>אי חג המולד</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>איחוד האמירויות הערביות</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>איטליה</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>איי אולנד</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>איי בהאמה</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>איי הבתולה האמריקניים</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>איי הבתולה הבריטיים</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>איי ווליס ופוטונה</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>איי טורקס וקאיקוס</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>איי מריאנה הצפוניים</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>איי מרשל</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>איי נורפוק</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>איי סיישל</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>איי פארו</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>איי פוקלנד</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>איי פיטקרן</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>איי קוק</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>איי קוקוס (קילינג)</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>איי קיימן</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>איי שלמה</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>איים לחוף ארצות הברית</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>אינדונזיה</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>איסלנד</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>איראן</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>אירלנד</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>אל סלבדור</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>אלבניה</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>אלג׳יריה</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>אנגולה</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>אנגילה</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>אנדורה</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>אנטארקטיקה</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>אנטיגואה וברבודה</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>אסטוניה</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>אפגניסטן</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>אקוודור</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>ארגנטינה</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>ארובה</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>אריתריאה</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>ארמניה</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ארצות הברית</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>אתיופיה</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>בהוטן</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>בוטסוואנה</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>בולגריה</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>בוליביה</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>בוסניה והרצגובינה</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>בורונדי</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>בורקינה פאסו</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>בחריין</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>בלארוס</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>בלגיה</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>בליז</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>בנגלדש</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>בנין</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>ברבדוס</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>ברוניי</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>ברזיל</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>ברמודה</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>ג׳ורג׳יה הדרומית ואיי סנדוויץ׳ הדרומיים</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>ג׳יבוטי</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ג׳מייקה</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>ג׳רסי</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>גאבון</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>גאורגיה</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>גאנה</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>גואטמלה</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>גואם</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>גוואדלופ</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>גיאנה</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>גיאנה הצרפתית</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>גיברלטר</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>גיניאה</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>גיניאה המשוונית</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>גיניאה-ביסאו</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>גמביה</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>גרינלנד</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>גרמניה</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>גרנדה</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>גרנסי</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>דומיניקה</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>דייגו גרסיה</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>דנמרק</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>דרום אפריקה</value>
+  </data>
+  <data name="SS.Text" xml:space="preserve">
+    <value>דרום סודן</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>האי אסנשן</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>האי מאן</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>האיטי</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>האיים המלדיביים</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>האיים הקנריים</value>
+  </data>
+  <data name="BQ.Text" xml:space="preserve">
+    <value>האיים הקריביים ההולנדיים</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>הודו</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>הוותיקן</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>הולנד</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>הונג קונג - מחוז מנהלי מיוחד של סין</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>הונגריה</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>הונדורס</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>הממלכה המאוחדת</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>הרפובליקה הדומיניקנית</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>הרפובליקה של מרכז אפריקה</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>השטחים הפלסטיניים</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>וייטנאם</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>ונואטו</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>ונצואלה</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>זימבאבווה</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>זמביה</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>חוף השנהב</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>טג׳יקיסטן</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>טובלו</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>טוגו</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>טונגה</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>טוקלאו</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>טורקיה</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>טורקמניסטן</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>טייוואן</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>טימור לסטה</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>טנזניה</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>טריטוריה בריטית באוקיאנוס ההודי</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>טריטוריות דרומיות של צרפת</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>טרינידד וטובגו</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>טריסטן דה קונה</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>יוון</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>יפן</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ירדן</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>ישראל</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>כווית</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>כף ורדה</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>לאוס</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>לבנון</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>לוב</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>לוקסמבורג</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>לטביה</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>ליבריה</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>ליטא</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>ליכטנשטיין</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>לסוטו</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>מאוריטניה</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>מאוריציוס</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>מאיוט</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>מאלי</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>מדגסקר</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>מוזמביק</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>מולדובה</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>מונגוליה</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>מונטנגרו</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>מונסראט</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>מונקו</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>מיאנמאר (בורמה)‎</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>מיקרונזיה</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>מלאווי</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>מלזיה</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>מלטה</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>מצרים</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>מקאו - מחוז מנהלי מיוחד של סין</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>מקדוניה</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>מקסיקו</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>מרוקו</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>מרטיניק</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>נאורו</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>נורווגיה</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>ניגריה</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>ניו זילנד</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>ניווה</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>ניז׳ר</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>ניקרגואה</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>נמיביה</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>נפאל</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>סאו טומה ופרינסיפה</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>סאוטה ומלייה</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>סהרה המערבית</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>סודן</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>סווזילנד</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>סוולבארד ויאן מאיין</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>סומליה</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>סוריה</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>סורינם</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>סיירה לאונה</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>סין</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>סינגפור</value>
+  </data>
+  <data name="SX.Text" xml:space="preserve">
+    <value>סינט מארטן</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>סלובניה</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>סלובקיה</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>סמואה</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>סמואה האמריקנית</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>סן מרינו</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>סנגל</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>סנט ברתולומיאו</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>סנט הלנה</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>סנט וינסנט והגרנדינים</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>סנט לוסיה</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>סנט מרטין</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>סנט פייר ומיקלון</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>סנט קיטס ונוויס</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>ספרד</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>סרביה</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>סרי לנקה</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>עומאן</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>עיראק</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>ערב הסעודית</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>פאלאו</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>פולין</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>פולינזיה הצרפתית</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>פורטו ריקו</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>פורטוגל</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>פיג׳י</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>פיליפינים</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>פינלנד</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>פנמה</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>פפואה גיניאה החדשה</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>פקיסטן</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>פרגוואי</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>פרו</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>צ׳אד</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>צ׳ילה</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>צ׳כיה</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>צרפת</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>קובה</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>קולומביה</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>קומורוס</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>קונגו - ברזאויל</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>קונגו - קינשאסה</value>
+  </data>
+  <data name="XK.Text" xml:space="preserve">
+    <value>קוסובו</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>קוסטה ריקה</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>קוראסאו</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>קוריאה הדרומית</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>קוריאה הצפונית</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>קזחסטן</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>קטאר</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>קירגיזסטן</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>קיריבאטי</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>קלדוניה החדשה</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>קמבודיה</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>קמרון</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>קנדה</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>קניה</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>קפריסין</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>קרואטיה</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>ראוניון</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>רואנדה</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>רומניה</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>רוסיה</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>שוודיה</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>שווייץ</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>תאילנד</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>תוניסיה</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>תימן</value>
+  </data>
+</root>

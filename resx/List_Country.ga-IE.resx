@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ET.Text" xml:space="preserve">
+    <value>An Aetóip</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>An Afganastáin</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>An Afraic Theas</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>An Ailgéir</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>An Airgintín</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>An Airméin</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>An Albáin</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>An Antartaice</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>An Araib Shádach</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>An Asarbaiseáin</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>An Astráil</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>An Bhanglaidéis</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>An Bhealarúis</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>An Bheilg</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>An Bheilís</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>An Bhoisnia agus An Heirseagaivéin</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>An Bholaiv</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>An Bhotsuáin</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>An Bhrasaíl</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>An Bhulgáir</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>An Bhurúin</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>An Bhútáin</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>An Chambóid</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>An Chasacstáin</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>An Chéinia</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>An Chipir</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>An Chirgeastáin</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>An Chóiré Theas</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>An Chóiré Thuaidh</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>An Cholóim</value>
+  </data>
+  <data name="XK.Text" xml:space="preserve">
+    <value>An Chosaiv</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>An Chróit</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>An Congó</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>An Cósta Eabhair</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>An Danmhairg</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>An Eastóin</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>An Éigipt</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>An Eilvéis</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>An Eiritré</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>An Fhionlainn</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>An Fhrainc</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>An Ghabúin</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>An Ghaimbia</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>An Ghearmáin</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>An Ghraonlainn</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>An Ghréig</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>An Ghuáin</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>An Ghuine</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>An Ghuine Mheánchriosach</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>An Iaráic</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>An Iaráin</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>An India</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>An Indinéis</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>An Iodáil</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>An Iordáin</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>An Iorua</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>An Íoslainn</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>An Ísiltír</value>
+  </data>
+  <data name="BQ.Text" xml:space="preserve">
+    <value>An Ísiltír Chairibeach</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>An Laitvia</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>An Libéir</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>An Libia</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>An Liobáin</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>An Liotuáin</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>An Mhacadóin</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>An Mhalaeisia</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>An Mhaláiv</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>An Mháratáin</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>An Mhicrinéis</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>An Mholdóiv</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>An Mhongóil</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>An Namaib</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>An Nigéir</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>An Nígir</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>An Nua-Chaladóin</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>An Nua-Shéalainn</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>An Ostair</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>An Phacastáin</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>An Phoblacht Dhoiminiceach</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>An Pholainn</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>An Phortaingéil</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>An Ríocht Aontaithe</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>An Rómáin</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>An Rúis</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>An Sahára Thiar</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>An Spáinn</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>An Táidsíceastáin</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>An Tansáin</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>An Téalainn</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>An Téaváin</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>An tSaimbia</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>An tSalvadóir</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>An tSeapáin</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>An tSeineagáil</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>An tSeirbia</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>An tSeoirsia</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>An tSeoirsia Theas agus Oileáin Sandwich Theas</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>An tSile</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>An tSín</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>An tSiombáib</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>An tSiria</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>An tSlóivéin</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>An tSlóvaic</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>An tSomáil</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>An tSualainn</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>An tSuasalainn</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>An tSúdáin</value>
+  </data>
+  <data name="SS.Text" xml:space="preserve">
+    <value>An tSúdáin Theas</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>An Túinéis</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>An Tuirc</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>An Tuircméanastáin</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>An Úcráin</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>An Úisbéiceastáin</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>An Ungáir</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>An Vatacáin</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Andóra</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>Angaíle</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>Angóla</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>Antigua agus Barbúda</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>Aontas na nÉimíríochtaí Arabacha</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>Arúba</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Bairéin</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>Barbadós</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Beinin</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Beirmiúda</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>Brúiné</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>Buircíne Fasó</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Camarún</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>Catar</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Ceanada</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>Ceuta agus Melilla</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>Cireabaití</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>Cósta Ríce</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>Críoch Aigéan Indiach na Breataine</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>Críocha Francacha Dheisceart an Domhain</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>Cuáit</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>Cúba</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>Curaçao</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>Diego Garcia</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>Djibouti</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>Doiminice</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>Eacuadór</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>Éimin</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Éire</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>Fidsí</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>Gána</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>Geansaí</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>Geirsí</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>Giobráltar</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>Greanáda</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>Guadalúip</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>Guáin na Fraince</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>Guam</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>Guatamala</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>Guine Bissau</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Háítí</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>Hondúras</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>Iamáice</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>Iosrael</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>Laos</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>Leosóta</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>Lichtinstéin</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>Lucsamburg</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>Madagascar</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>Maenmar (Burma)</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>Mailí</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>Málta</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>Maracó</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>Martinique</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>Mayotte</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Meicsiceo</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>Monacó</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>Montainéagró</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>Montsarat</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>Mósaimbíc</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>Na Bahámaí</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>Na Críocha Palaistíneacha</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>Na hOileáin Chanáracha</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>Na hOileáin Fhilipíneacha</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>Na hOileáin Mháirianacha Thuaidh</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>Na Séiséil</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>Nárú</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>Neipeal</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>Nicearagua</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>Niue</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>Nua-Ghuine Phapua</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>Oileáin Åland</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>Oileáin Bhriotanacha na Maighdean</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>Oileáin Cayman</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Oileáin Chomóra</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>Oileáin Cocos (Keeling)</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>Oileáin Cook</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>Oileáin Fháclainne</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>Oileáin Fharó</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>Oileáin Imeallacha S.A.M.</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>Oileáin Marshall</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>Oileáin Mhaildíve</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>Oileáin Mheiriceánacha na Maighdean</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>Oileáin na dTurcach agus Caicos</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>Oileáin Pitcairn</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>Oileáin Sholomón</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>Oileán Mhanann</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>Oileán Mhuirís</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>Oileán na Deascabhála</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>Oileán na Nollag</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>Oileán na Tríonóide agus Tobága</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>Oileán Norfolk</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>Óman</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>Palau</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>Panama</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>Paragua</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>Peiriú</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>Poblacht Dhaonlathach an Chongó</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>Poblacht na hAfraice Láir</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>Poblacht na Seice</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>Polainéis na Fraince</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>Portó Ríce</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>Réunion</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>Rinn Verde</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>Ruanda</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>S.R.R. na Síne Hong Cong</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>S.R.R. na Síne Macao</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>Saint Barthélemy</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>Saint Lucia</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>Saint-Martin</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>Saint-Pierre-et-Miquelon</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>Samó</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Samó Meiriceánach</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>San Críostóir-Nimheas</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>San Héilin</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>San Mairíne</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>San Uinseann agus na Greanáidíní</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>São Tomé agus Príncipe</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Sead</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>Siarra Leon</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>Singeapór</value>
+  </data>
+  <data name="SX.Text" xml:space="preserve">
+    <value>Sint Maarten</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>Srí Lanca</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>Stáit Aontaithe Mheiriceá</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>Suranam</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>Svalbard agus Jan Mayen</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>Tíomór Thoir</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>Tócalá</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>Tóga</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>Tonga</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>Tristan da Cunha</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>Tuvalu</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>Uganda</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>Urugua</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>Vailís agus Futúna</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>Vanuatú</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>Veiniséala</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>Vítneam</value>
+  </data>
+</root>

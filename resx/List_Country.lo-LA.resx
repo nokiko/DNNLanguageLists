@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ກຣີຊ</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>ກຣີນແລນ</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>ກວມ</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>ກາຍຢານາ</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>ກາຕາ</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ການາ</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>ກາບອນ</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>ກຳປູເຈຍ</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ກິນີ</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>ກິນີ-ບິສເຊົາ</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>ກົວດາລູບ</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ກົວເທມາລາ</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>ເກຣເນດາ</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>ເກາະຄຣິສມາດ</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>ເກາະນໍໂຟກ</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>ເກາະອາເຊນຊັນ</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>ເກີນຊີ</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>ເກົາຫລີໃຕ້</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>ເກົາຫລີເໜືອ</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>ເຂດແດນທາງໃຕ້ຂອຝຮັ່ງ</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>ເຂດແດນບຣິທິສອິນດຽນໂອຊຽນ</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>ຄອງໂກ - ຄິນຊາຊາ</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>ຄອງໂກ - ບຣາຊາວິວ</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>ຄາຊັກສະຖານ</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>ຄາເມຣູນ</value>
+  </data>
+  <data name="BQ.Text" xml:space="preserve">
+    <value>ຄາຣິບບຽນ ເນເທີແລນ</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>ຄິຣິບາທິ</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>ຄິວບາ</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>ຄີກິສຖານ</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>ຄູຣາຊາວ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>ຄູເວດ</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>ເຄນຢາ</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>ເຄບ ເວີດ</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>ເຄແມນ ໄອແລນ</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>ແຄນາດາ</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>ໂຄສຕາ ຣິກາ</value>
+  </data>
+  <data name="XK.Text" xml:space="preserve">
+    <value>ໂຄໂຊໂວ</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>ໂຄຕີ ວົວ</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>ໂຄໂມໂຣສ</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>ໂຄຣເອເທຍ</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>ໂຄລົມເບຍ</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>ຈໍເຈຍ</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ຈໍແດນ</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ຈາໄມຄາ</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>ຈິບບຣອນທາ</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>ຈິບູຕິ</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>ຈີນ</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>ເຈີຊີ</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>ສະເປນ</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>ສະໂລວາເກຍ</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>ສະໂລເວເນຍ</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>ສະວາຊິແລນ</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>ສະວາບາ ແລະ ແຢນ ມາເຢນ</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>ສະວິດເຊີແລນ</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>ສະວີເດັນ</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ສະຫະລັດ</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>ສະຫະລັດອາຣັບເອມິເຣດ</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>ສະຫະລາດຊະອະນາຈັກ</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>ສາທາລະນະລັດ ໂດມິນິກັນ</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ສາທາລະນະລັດແກມເບຍ</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>ສາທາລະນະລັດເຊກ</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>ສາທາລະນະລັດອາຟຣິກາກາງ</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>ສິງກະໂປ</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>ສີລັງກາ</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>ຊາດ</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>ຊາມົວ</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>ຊາອຸດິ ອາຣາເບຍ</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>ຊາຮາຣາຕາເວັນຕົກ</value>
+  </data>
+  <data name="SX.Text" xml:space="preserve">
+    <value>ຊິນ ມາເທັນ</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>ຊິມບັບເວ</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>ຊິລີ</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>ຊີເຣຍ</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>ຊູດານ</value>
+  </data>
+  <data name="SS.Text" xml:space="preserve">
+    <value>ຊູດານໃຕ້</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>ຊູຣິນາມ</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>ເຊເຊວເລສ</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>ເຊຍຣາ ລີໂອນ</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>ເຊນ ຄິດ ແລະ ເນວິສ</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>ເຊນ ບາເທເລມີ</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>ເຊນ ປີແອ ມິເກວລອນ</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>ເຊນ ມາທິນ</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>ເຊນ ລູເຊຍ</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>ເຊນ ເຮເລນາ</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>ເຊນີໂກລ</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>ເຊວຕາ ແລະເມລິນລາ</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>ເຊີເບຍ</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>ເຊົາທູເມ ແລະ ພຣິນຊິບ</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>ແຊນ ມາຣິໂນ</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>ແຊມເບຍ</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>ໂຊມາເລຍ</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>ໄຊປຣັສ</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>ຍີ່ປຸ່ນ</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>ດິນແດນ ປາເລສຕິນຽນ</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>ດິເອໂກ ກາເຊຍ</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ເດນມາກ</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ໂດມີນິຄາ</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>ຕູນິເຊຍ</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>ຕູວາລູ</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>ໂຕເກເລົາ</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>ໂຕໂກ</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>ໄຕ້ຫວັນ</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>ທຣິສຕັນ ດາ ກັນຮາ</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>ທຣິນິແດດ ແລະ ໂທແບໂກ</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>ທອງກາ</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>ທາຈິກິສຖານ</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>ທານຊາເນຍ</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>ທິມໍ-ເລສເຕ</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>ເທີກເມນິສຖານ</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>ເທີຄີ</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>ໄທ</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>ນໍເວ</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>ນະຄອນ ວາຕິກັນ</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>ນາມີເບຍ</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>ນາອູຣູ</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>ນິກຄາຣາກົວ</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>ນິເຈີ</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>ນິວ ຄາເລໂດເນຍ</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>ນິວຊີແລນ</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>ນີອູເອ</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>ເນເທີແລນ</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>ເນປານ</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>ໄນຈີເຣຍ</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>ບຣາຊິວ</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>ບຣູໄນ</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>ບອດສະເນຍ ແລະ ແຮສໂກວີນາ</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>ບອດສະວານາ</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>ບັງກະລາເທດ</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>ບັງກາເຣຍ</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>ບາບາໂດສ</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>ບາເຣນ</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>ບາຮາມາສ</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>ບູຣຸນດິ</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>ເບນິນ</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>ເບລີຊ</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>ເບວບາຣຸສ</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>ເບວຢຽມ</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>ເບີກິນາ ຟາໂຊ</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>ເບີມິວດາ</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>ໂບລິເວຍ</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>ປາກິສຖານ</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>ປາປົວນິວກີນີ</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>ປາເລົາ</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>ເປຣູ</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>ໂປແລນ</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>ຝຣັ່ງ</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>ພອລທູໂກ</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>ພານາມາ</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>ພາຣາກວຍ</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>ພູຖານ</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>ເພືອໂຕ ຣິໂກ</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ຟິຈິ</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ຟິນແລນ</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ຟິລິບປິນ</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>ເຟຣນຊ໌ ກຸຍອານາ</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>ເຟຣນຊ໌ ໂພລີນີເຊຍ</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>ມອງໂກເລຍ</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>ມອນເຊີຣາດ</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>ມອນເຕເນໂກຣ</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>ມອນທາ</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>ມັນດິຟ</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>ມາເກົ້າ ເຂດປົກຄອງພິເສດ ຈີນ</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>ມາດາກາສກາ</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>ມາຕິນີກ</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>ມາຢັອດ</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>ມາລາວີ</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>ມາລິ</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>ມາເລເຊຍ</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>ມົວຣິຊຽສ</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>ມົວຣິເທເນຍ</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>ມຽນມາ (ເບີມາ)</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>ເມັກຊິໂກ</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>ແມຊິໂດເນຍ</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>ໂມແຊມບິກ</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>ໂມນໂດວາ</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>ໂມນາໂຄ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>ໂມຣັອກໂຄ</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>ໄມໂຄຣນີເຊຍ</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>ຢູເຄຣນ</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>ເຢຍລະມັນ</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>ເຢເມນ</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>ຣວັນດາ</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>ຣັດເຊຍ</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>ເຣອູນິຍົງ</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>ໂຣແມເນຍ</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>ລັດເວຍ</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>ລາວ</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>ລິດເທນສະຕາຍ</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>ລິທົວເນຍ</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>ລິເບຍ</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>ລິເບີເຣຍ</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>ລຸກແຊມເບີກ</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>ເລໂຊໂທ</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>ເລບານອນ</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>ວານົວຕູ</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>ວາລິສ ແລະ ຟຸຕູນາ</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>ເວເນຊູເອລາ</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>ໝູ່ເກາະ ເທີກ ແລະ ໄຄໂຄສ</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>ໝູ່ເກາະ ບຣິທິຊ ເວີຈິນ</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>ໝູ່ເກາະ ຢູເອສ ເວີຈິນ</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>ຫມູ່ເກາະໂກໂກສ</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>ໝູ່ເກາະຄານາຣີ</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>ໝູ່ເກາະຄຸກ</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>ຫມູ່ເກາະໂຊໂລມອນ</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>ໝູ່ເກາະພິດແຄນ</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>ຫມູ່ເກາະຟອກແລນ</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>ຫມູ່ເກາະແຟໂຣ</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>ຫມູ່ເກາະມາແຊວ</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>ຫມູ່ເກາະມາແຊວຕອນເຫນືອ</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>ຫມູ່ເກາະໂອລັນ</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>ໝູ່ເກາະຮອບນອກຂອງສະຫະລັດຯ</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>ຫວຽດນາມ</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>ອໍຣູບາ</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>ອອສເຕຣເລຍ</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>ອອສເທຣຍ</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>ອັນໂກລາ</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>ອັນດໍຣາ</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>ອັລຈິເຣຍ</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>ອາເຈນທິນາ</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>ອາເຊີໄບຈານ</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>ອາທິກົວ ບາບູດາ</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>ອາຟການິສຖານ</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>ອາຟະລິກາໃຕ້</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>ອາເມເນຍ</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>ອາເມຣິກາ ຊາມົວ</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>ອິສຣາເອວ</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ອິຕາລີ</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ອິນເດຍ</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>ອິນໂດເນເຊຍ</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>ອີຄົວໂຕຣຽວ ກີນີ</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>ອີທິໂອເປຍ</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>ອີຢິບ</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>ອີຣັກ</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>ອີຣ່ານ</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>ອຸສເບກິສຖານ</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>ອູການດາ</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>ອູຣຸກວຍ</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>ເອກກວາດໍ</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>ເອສໂຕເນຍ</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>ເອຣິເທຣຍ</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>ເອວ ຊໍວາດໍ</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>ເອວ ອອບ ແມນ</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>ແອນກຸຍລາ</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>ແອນຕາດຕິກາ</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>ແອວເບເນຍ</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>ໂອມານ</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>ໄອສແລນ</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>ໄອຣ໌ແລນ</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>ຮອງກົງ ເຂດປົກຄອງພິເສດ ຈີນ</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>ຮອນດູຣັສ</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>ຮັງກາຣີ</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>ໄຮຕິ</value>
+  </data>
+</root>

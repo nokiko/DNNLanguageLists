@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AF.Text" xml:space="preserve">
+    <value>Afghanistan nutome</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>Aiseland nutome</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>Aisle of Man nutome</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>Åland ƒudomekpo nutome</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>Albania nutome</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>Algeria nutome</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Amerika Samoa nutome</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Andorra nutome</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>Angola nutome</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>Anguilla nutome</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>Antartica nutome</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>́Antigua kple Barbuda nutome</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>Anyiehe Afrika nutome</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>Anyiehe Franseme nutome</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>Anyiehe Georgia kple Anyiehe Sandwich ƒudomekpowo nutome</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>Anyiehe Korea nutome</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>Argentina nutome</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>Armenia nutome</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>Aruba nutome</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>Ascension ƒudomekpo nutome</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Australia nutome</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>Austria nutome</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Azerbaijan nutome</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>Bahamas nutome</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Bahrain nutome</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>Bangladesh nutome</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>Barbados nutome</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>Belarus nutome</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>Belgium nutome</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>Belize nutome</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Benin nutome</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Bermuda nutome</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>Bhutan nutome</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>Bolivia nutome</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>Bosnia kple Herzergovina nutome</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>Botswana nutome</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Brazil nutome</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>Britaintɔwo ƒe india ƒudome nutome</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>Britaintɔwo ƒe Virgin ƒudomekpowo nutome</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>Brunei nutome</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>Bulgaria nutome</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>Burkina Faso nutome</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Burundi nutome</value>
+  </data>
+  <data name="BQ.Text" xml:space="preserve">
+    <value>Caribbean Netherlands</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>Curaçao</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Denmark nutome</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>Diego Garsia nutome</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>Dominika nutome</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>Dominika repɔblik nutome</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>Dzamaika nutome</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Dzapan nutome</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>Dzɛse nutome</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>Dzibuti nutome</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>Dziehe Korea nutome</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>Dziehe Marina ƒudomekpowo nutome</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>Egypte nutome</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>Ekuadɔ nutome</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>Ekuatorial Guini nutome</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>El Salvadɔ nutome</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>Eritrea nutome</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>Estonia nutome</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>Etiopia nutome</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>Falkland ƒudomekpowo nutome</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>Faroe ƒudomekpowo nutome</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>Fidzi nutome</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>Filipini nutome</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>Finland nutome</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Frans nutome</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>Frentsi Gayana nutome</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>Frentsi Pɔlinesia nutome</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>Gabɔn nutome</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>Gambia nutome</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>Georgia nutome</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Germania nutome</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>Ghana nutome</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>Gibraltar nutome</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>Gini-Bisao nutome</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>Grenada nutome</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>Grinland nutome</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>Grisi nutome</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>Guadelupe nutome</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>Guam nutome</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>Guatemala nutome</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>Guernse nutome</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>Guini nutome</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>Guyanadu</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>Ɣetoɖoƒe Sahara nutome</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Haiti nutome</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>Hondurasdu</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>Hɔng Kɔng SAR Tsaina nutome</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>Hungari nutome</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>India nutome</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>Indonesia nutome</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>Iran nutome</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>iraqdukɔ</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Ireland nutome</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>Israel nutome</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Italia nutome</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>Kambodia nutome</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Kamerun nutome</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Kanada nutome</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>Kanari ƒudomekpowo nutome</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>Kape Verde nutome</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>Katar nutome</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>Kayman ƒudomekpowo nutome</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>Kazakstan nutome</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>Kenya nutome</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>Keuta and Melilla nutome</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>Kirgizstan nutome</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>Kiribati nutome</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>Kokos (Kiling) fudomekpo nutome</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Kolombia nutome</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Komoros nutome</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>Kongo Brazzaville nutome</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>Kongo Kinshasa nutome</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>Kook ƒudomekpo nutome</value>
+  </data>
+  <data name="XK.Text" xml:space="preserve">
+    <value>Kosovo</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>Kosta Rika nutome</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>Kote d’Ivoire nutome</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>Kristmas ƒudomekpo nutome</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>Kroatsia nutome</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>Kuba nutome</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>Kuwait nutome</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>Laos nutome</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>Latvia nutome</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>Lazembɔg nutome</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>Lebanɔn nutome</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>Lɛsoto nutome</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>Liberia nutome</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>Libya nutome</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>Lituania nutome</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>Litsenstein nutome</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>Macau SAR Tsaina nutome</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>Madagaska nutome</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>Makedonia nutome</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>Malawi nutome</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>Malaysia nutome</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>maldivesdukɔ</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>Mali nutome</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>Malta nutome</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>Marshal ƒudomekpowo nutome</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>Martiniki nutome</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>Mauritania nutome</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>mauritiusdukɔ</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>Mayotte nutome</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Meksico nutome</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>Mikronesia nutome</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>Moldova nutome</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>Monako nutome</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>Mongolia nutome</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>Montenegro nutome</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>Montserrat nutome</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>Moroko nutome</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>Mozambiki nutome</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>Myanmar (Burma) nutome</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>Namibia nutome</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>Nauru nutome</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>Nedalands nutome</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>Nepal nutome</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>New Kaledonia nutome</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>New Zealand nutome</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>Nicaraguadukɔ</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>Niger nutome</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>Nigeria nutome</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>Niue nutome</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>Norfolk ƒudomekpo nutome</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>Norway nutome</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>Oman nutome</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>Pakistan nutome</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>Palau nutome</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>Palestinia nutome</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>Panama nutome</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>Papua New Gini nutome</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>Paragua nutome</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>Peru nutome</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>Pitkairn ƒudomekpo nutome</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>Poland nutome</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>Portugal nutome</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>Puerto Riko nutome</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>Réunion nutome</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>Romania nutome</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Russia nutome</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>Rwanda nutome</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>Saint Barthélemy nutome</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>Saint Helena nutome</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>Saint Kitis kple Nevis nutome</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>Saint Lusia nutome</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>Saint Martin nutome</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>Saint Pierre kple Mikelɔn nutome</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>Saint Vincent kple Grenadine nutome</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>Saiprus nutome</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>Samoa nutome</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>San Marino nutome</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>São Tomé kple Príncipe nutome</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>Saudi Arabia nutome</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>Senegal nutome</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>Serbia</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>Seshɛls nutome</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>Sierra Leone nutome</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>Singapɔr nutome</value>
+  </data>
+  <data name="SX.Text" xml:space="preserve">
+    <value>Sint Maarten</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>Siria nutome</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>Slovakia nutome</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>Slovenia nutome</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>Solomon ƒudomekpowo nutome</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>Somalia nutome</value>
+  </data>
+  <data name="SS.Text" xml:space="preserve">
+    <value>South Sudan</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Spania nutome</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>Sri Lanka nutome</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>Sudan nutome</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>Suriname nutome</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>Svalbard kple Yan Mayen nutome</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>Swaziland nutome</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>Sweden nutome</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>Switzerland nutome</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>Tailand nutome</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>Taiwan nutome</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>Tajikistan nutome</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>Tanzania nutome</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>Tɛki nutome</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>Tɛkmenistan nutome</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>Tɛks kple Kaikos ƒudomekpowo nutome</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>Timor-Leste nutome</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>Titina Afrika repɔblik nutome</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>Togo nutome</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>Tokelau nutome</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>Tonga nutome</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>Trinidad kple Tobago nutome</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>Tristan da Kunha nutome</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>Tunisia nutome</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>Tuvalu nutome</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Tsad nutome</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Tsaina nutome</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>Tsɛk repɔblik nutome</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Tsile nutome</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>U.S. Minor Outlaying ƒudomekpowo nutome</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>U.S. Vɛrgin ƒudomekpowo nutome</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>Uganda nutome</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>Ukraine nutome</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>United Arab Emirates nutome</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>United Kingdom nutome</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>uruguaydukɔ</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>USA nutome</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>Uzbekistan nutome</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>Vanuatu nutome</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>Vatikandu nutome</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>Venezuela nutome</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>Vietnam nutome</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>Wallis kple Futuna nutome</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>Yemen nutome</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>Yordan nutome</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>Zambia nutome</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>Zimbabwe nutome</value>
+  </data>
+</root>

@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="IE.Text" xml:space="preserve">
+    <value>ᎠᎢᎴᏂᏗ</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>ᎠᎵᎻᏂᎠ</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>ᎠᎵᏇᏂᏯ</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>ᎠᎵᏥᎵᏯ</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>ᎠᎷᏆ</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>ᎠᎹᏰᏟ</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>ᎠᎺᎵᎧ ᏌᎼᎠ</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>ᎠᏂᎦᎸᏣ ᏆᎵᏂᏏᎠ</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>ᎠᏂᎦᎸᏥ ᎩᎠ</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>ᎠᏂᎩᎳ</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>ᎠᏂᎪᎳ</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ᎠᏂᏈᎵᎩᏃ</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>ᎠᏂᏍᏆᏂᏱ</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>ᎠᏂᏙᎳ</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>ᎠᏂᏛᏥ</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>ᎠᏍᏟᏯ</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>ᎠᏏᎵᏆᏌᏂ</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>ᎠᏓᏍᏓᏴᎲᏍᎩ ᎤᎦᏚᏛ</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>ᎠᏥᎸᏉᏗ ᎮᎵᎾ</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>ᎠᏥᎸᏉᏗ ᏆᏕᎳᎻ</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>ᎠᏥᎸᏉᏗ ᏡᏡ</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>ᎠᏥᏂᏘᏂᎠ</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>ᎠᏫᎨᏂᏍᏖᏂ</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>ᎠᏰᏟ ᎾᎿ ᎨᏥᎸᏉᏗ ᎠᏂᏪᏌ ᎠᎴ ᎠᏂᏁᏫᏍ</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>ᎠᏰᏟ ᏧᎾᎵᎪᎯ ᎾᎿ ᎹᎢᏉᏂᏏᏯ</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>ᎡᎳᏗᏜ</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>ᎡᎵᏟᏯ</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>ᎡᏆᏙᎵ</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>ᎡᏆᏙᎵᎠᎵ ᎩᎢᏂ</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>ᎡᏍᏙᏂᏯ</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>ᎢᎳᎩ</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>ᎢᎴᏂ</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>ᎢᏂᏙᏂᏍᏯ</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ᎢᏅᏗᎾ</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>ᎢᏏᎵᏱ</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>ᎢᏤ ᎧᎵᏙᏂᎠᏂ</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>ᎢᏤ ᏏᎢᎴᏂᏗ</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>ᎢᏤᏍᏛᏱ</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>ᎢᏥᏈᎢ</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>ᎢᏬᎵ ᎾᎿ ᎠᎹᏳᎶᏗ</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>ᎣᎴᏅᏓ ᏚᎦᏚᏛ</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>ᎣᎺᏂ</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>ᎤᏍᏗ ᎤᎦᏚᏛ ᎾᎿ ᎠᏍᎦᏯ</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>ᎤᏪᏘ ᎠᎴ ᏆᏊᏓ</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ᎦᎠᎾ</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>ᎦᎸᏥᏱ</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ᎦᎹᏈᎢᎠ</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>ᎦᏉᏂ</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>ᎦᏯᎾ</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>ᎧᎵᏆᏘ</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>ᎧᎶᎡᏏᎠ</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>ᎧᎹᎷᏂ</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>ᎧᎹᏉᏗᎠᏂ</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>ᎧᏂᎪ</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>ᎧᏂᎪ [ᏍᎦᏚᎩ]</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>ᎧᏎᎧᏍᏕᏂ</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>ᎧᏔᎵ</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>ᎨᎢᎹᏂ ᏚᎦᏚᏛᎢ</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>ᎨᎾᏓ</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>ᎨᏂᏯ</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>ᎩᎵᏏᏲ</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>ᎩᎵᏣᎢᏍ</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ᎪᎢᎯ</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>ᎪᎪᏍ [ᎩᎵᏂ] ᏚᎦᏚᏛ</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>ᎪᎸᎻᏈᎢᎠ</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>ᎪᎼᎳᏍ</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>ᎪᏍᏓ ᎵᎧ</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>ᎫᏆ</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ᎫᏇ</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>ᎫᏇ-ᏈᏌᎤᏫ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>ᎫᏪᎢᏘ</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>ᎬᎿᎨᏍᏛ ᎠᏰᏟ ᏍᎦᏚᎩ</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>ᎬᏂᏏ</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>ᎮᎢᏘ</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>ᎰᏂᎩ ᎪᏂᎩ</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>ᎲᏂᎦᎵ</value>
+  </data>
+  <data name="HM.Text" xml:space="preserve">
+    <value>ᎲᏗ ᎤᎦᏚᏛ ᎠᎴ ᎺᎩᏓᎾᎵᏗ ᏚᎦᏚᏛ</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>ᎳᏈᎵᏯ</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>ᎳᏘᏫᎠ</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>ᎴᎣᏍ</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>ᎴᏆᎾᏂ</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>ᎴᏐᏙ</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>ᎵᎦᏗᏂᏍᏓᏂ</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>ᎵᏈᏯ</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>ᎵᏗᏪᏂᎠ</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>ᎶᎹᏂᏯ</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>ᎶᏩᏂᏓ</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>ᎸᎧᏎᏋᎩ</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>ᎹᎧᎣ [ᎤᏓᏤᎵᏓ ᏧᏂᎸᏫᏍᏓᏁᏗ ᎢᎬᎾᏕᎾ] ᏣᎢ</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>ᎹᎳᏫ</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>ᎹᎴᏏᎢᎠ</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>ᎹᎵ</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>ᎹᎵᏔ</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>ᎹᎵᏗᏫᏍ</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>ᎹᎵᏙᏫᎠ</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>ᎹᎾᎪ</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>ᎹᏂᎪᎵᎠ</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>ᎹᏂᏘᏌᎳᏗ</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>ᎹᏌᎵ ᏚᎪᏚᏛ</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>ᎹᏏᏙᏂᎢᎠ</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>ᎹᏓᎦᏍᎧᎵ</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>ᎹᏘᎢᏯ</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>ᎹᏘᏂᎨ</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>ᎹᏯᎹᎵ</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>ᎼᎵᏏᎥᏍ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>ᎼᎶᎪ</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>ᎼᏂᏔᏁᎦᎶ</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>ᎼᏎᎻᏇᎩ</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>ᎾᎻᏈᎢᏯ</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>ᎾᏍᎩ ᎤᏴᏢ ᏗᏜ ᎹᎵᎠᎾ ᏚᎦᏚᏛ</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>ᎾᏍᎩ ᏆᎭᎹᏍ</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>ᏁᏆᎵ</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>ᏁᏛᎳᏂ</value>
+  </data>
+  <data name="CW.Text" xml:space="preserve">
+    <value>ᏂᎦᏓ ᎤᏂᎲ ᎾᎿ ᎫᎳᎨᎣ</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>ᏂᎧᎳᏆ</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>ᏂᏥᎵᏯ</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>ᏂᏳ</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>ᏃᎤᎷ</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛ</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>ᏃᏪ</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>ᏆᎩᏍᏖᏂ</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>ᏆᎭᎴᎢᏂ</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>ᏆᎳᏇᎢᏯ</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>ᏆᎴᎠᏫ</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>ᏆᎴᏍᏗᏂᎠᏂ ᏄᎬᏫᏳᏌᏕᎩ</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>ᏆᎻ</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>ᏆᎾᎹ</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>ᏆᏂᎢᏂ</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>ᏆᏂᎦᎵᏕᏍ</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>ᏆᏇ ᎢᏤ ᎩᏂ</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>ᏆᏇᏙᏍ</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>ᏆᏊᏓ</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>ᏆᏏᎵᎢ</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>ᏆᏣᏩᎾ</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>ᏇᎡᏙ ᎵᎢᎪ</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>ᏇᎳᎷᏍ</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>ᏇᎵᏍ</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>ᏇᎵᏥᎥᎻ</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>ᏇᎷ</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>ᏈᎧᎵᏂ ᎤᎦᏚᏛᎢ</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>ᏈᏗᏏ ᏴᏫᏯ ᎠᎺᏉ ᎢᎬᎾᏕᏅ</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>ᏉᎳᏂ</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>ᏉᎵᏫᎠ</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>ᏉᏏᏂᎠ ᎠᎴ ᎲᏤᎪᏫ</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>ᏉᏥᎦᎳ</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>ᏊᎵᎨᎵᎠ</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>ᏊᎾᎢ</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>ᏊᏔᏂ</value>
+  </data>
+  <data name="BV.Text" xml:space="preserve">
+    <value>ᏊᏪ ᎤᎦᏚᏛ</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>ᏋᎩᎾ ᏩᏐ</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>ᏋᎷᏂᏗ</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>ᏋᎾᏓ</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>ᏌᎢᏆᏍ</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>ᏌᎤᏗ ᎡᎴᏈᎠ</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>ᏌᏊ ᎢᏳᎾᎵᏍᏔᏅ ᎡᎳᏈ ᎢᎹᎵᏘᏏ</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>ᏍᎵ ᎳᏂᎧ</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>ᏍᎶᏩᎩᎠ</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>ᏍᎶᏫᏂᎠ</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>ᏍᏆᏂᏱ</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>ᏍᏫᏍ</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>ᏍᏫᏕᏂ</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>ᏎᏂᏘ ᏈᏓ ᎠᎴ ᎻᏇᎶᏂ</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>ᏏᎡᎳ ᎴᎣᏂ</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>ᏏᎡᏥᎵᏍ</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>ᏏᏂᎦᏉᎵ</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>ᏐᎶᎹᏂ ᏚᎦᏚᏛ</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>ᏑᏕᏂ</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>ᏒᏈᏯ</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>ᏓᎶᏂᎨᏍᏛ</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛ</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ᏗᏂᎹᎦ</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ᏙᎻᏂᎧ</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>ᏙᎻᏂᎧᏂ ᏍᎦᏚᎩ</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>ᏣᎠᏥᎢ</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>ᏣᎺᎢᎧ</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>ᏣᏩᏂᏏ</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>ᏤᎩ ᏍᎦᏚᎩ</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>ᏥᎵ</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>ᏥᏆᎵᏓ</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>ᏥᏊᏗ</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>ᏦᏓᏂ</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>ᏧᎦᏃᏮ ᎪᎵᎠ</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>ᏧᎦᏃᏮ ᏣᏥᏱ ᎠᎴ ᎾᏍᎩ ᏧᎦᏃᏮ ᎠᏍᏛᎭᏟ ᏚᎦᏚᏛ</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>ᏧᏁᏍᏓᎸ</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>ᏧᏁᏍᏓᎸᎯ</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>ᏧᏴᏢ ᎪᎵᎠ</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>ᏨᎵᏏ</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>ᏩᎩ ᎤᎦᏚᏛ</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>ᏩᏓᎷᏇ</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ᏩᏔᎹᎳ</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>ᏪᎶ ᏚᎦᏚᏛ</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ᏫᏂᎦᏙᎯ</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ᏫᏥ</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ᏲᎶ</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>ᏲᏂᎢ</value>
+  </data>
+</root>

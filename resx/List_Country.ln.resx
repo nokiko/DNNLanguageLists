@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AF.Text" xml:space="preserve">
+    <value>Afiganisitá</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>Afríka ya Súdi</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>Alabi Sawuditɛ</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>Alemani</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>Alibani</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>Alizɛri</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>Ameriki</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>Amɛni</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Andorɛ</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>Angɛlɛtɛ́lɛ</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>Angiyɛ</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>Angóla</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>Antiga mpé Barbuda</value>
+  </data>
+  <data name="AN.Text" xml:space="preserve">
+    <value>Antiyɛ ya Olandɛ</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>Arizantinɛ</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>Aruba</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>Ayiti</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Azɛlɛbaizá</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>Bahamasɛ</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Bahrɛnɛ</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>Barɛbadɛ</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>Beleziki</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>Belizɛ</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Benɛ</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>Bengalidɛsi</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Bermuda</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>Biligari</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>Bisanga bya Kapevɛrɛ</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>Bisanga bya Kayíma</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>Bisanga bya Kookɛ</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>Bisanga bya Maluni</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>Bisanga bya Marianɛ ya nɔ́rdi</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>Bisanga bya Marishalɛ</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>Bisanga bya Turki mpé Kaiko</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>Bisanga bya Vierzi ya Ameriki</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>Bisanga bya Vierzi ya Angɛlɛtɛ́lɛ</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>Bisanga Solomɔ</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>Bolivi</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>Bosini mpé Hezegovine</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>Botswana</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Brezílɛ</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>Brineyi</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>Bukina Faso</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Burundi</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>Butáni</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>Byelorisi</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>Danɛmarike</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>Domínike</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>Dzibuti</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>Ekwatɛ́lɛ</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>Elitelɛ</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>Esanga Norfokɛ</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>Esipanye</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>Esitoni</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>Etsíopi</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>Ezípite</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>Falánsɛ</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>Fidzi</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>Filandɛ</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>Filipinɛ</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>Gabɔ</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>Gambi</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>Gana</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>Geleki</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>Gelenadɛ</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>Ginɛ</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>Ginɛbisau</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>Ginɛ́kwatɛ́lɛ</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>Giyane</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>Giyanɛ ya Falánsɛ</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>Gowelande</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>Gwadɛlupɛ</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>Gwamɛ</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>Gwatémala</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>Ikrɛni</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>Índɛ</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>Indonezi</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>Irâ</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>Iraki</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>Irelandɛ</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>Irigwei</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>Isilandɛ</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>Isirayelɛ</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>Itali</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>Kaledoni ya sika</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>Kambodza</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Kamɛrune</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Kanada</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>Katari</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>Kazakisitá</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>Kenya</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>Kiba</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>Kigizisitá</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>Kiribati</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Kolombi</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Komorɛ</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>Kongo</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>Korɛ ya nɔ́rdi</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>Korɛ ya súdi</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>Kositarika</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>Kotídivualɛ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>Koweti</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>Krowasi</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>Lawosi</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>Lenyo</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>Lesoto</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>Letoni</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>Lɛmila alabo</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>Libá</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>Libériya</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>Libí</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>Likisambulu</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>Lishɛteni</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>Litwani</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>Mabelé ya Angɛlɛtɛ́lɛ na mbú ya Indiya</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>Madagasikari</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>Madívɛ</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>Malawi</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>Malezi</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>Malí</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>Malitɛ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>Marokɛ</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>Martiniki</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>Masedwanɛ</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>Mayotɛ</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>Meksike</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>Mikronezi</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>Molidavi</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>Monako</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>Mongolí</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>Morisɛ</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>Moritani</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>Mɔsera</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>Mozambíki</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>Namibi</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>Nauru</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>Nepálɛ</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>Nikaragwa</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>Nizerya</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>Nizɛrɛ</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>Norivezɛ</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>Nyué</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>Olandɛ</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>Ománɛ</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>Ondurasɛ</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>Ongili</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Ositáli</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>Otilisi</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>Pakisitá</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>Palagwei</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>Palau</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>Palɛsine</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>Panama</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>Papwazi Ginɛ ya sika</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>Péru</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>Pikairni</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>Polinezi ya Falánsɛ</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>Poloni</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>Pɔtoriko</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>Putúlugɛsi</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>Repibiki demokratiki ya Kongó</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>Repibiki Tsekɛ</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>Repibiki ya Afríka ya Káti</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>Repibiki ya Domínikɛ</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>Risí</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>Romani</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>Rwanda</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>Samoa</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Samoa ya Ameriki</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>Sántu eleni</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>Sántu krístofe mpé Nevɛ̀s</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>Sántu lisi</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>Sántu Marinɛ</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>Sántu pététo mpé Mikelɔ</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>Sántu vesá mpé Gelenadinɛ</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>Sao Tomé mpé Presipɛ</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>Savadɔrɛ</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>Senegalɛ</value>
+  </data>
+  <data name="CS.Text" xml:space="preserve">
+    <value>Serebi mpé Monténegro</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>Sɛshɛlɛ</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>Siera Leonɛ</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Síli</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>Silovaki</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>Siloveni</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Sinɛ</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>Singapurɛ</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>Sípɛlɛ</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>Sirí</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>Sirilanka</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>Somali</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>Sudá</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>Surinamɛ</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>Swazilandi</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>Swédɛ</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>Swisɛ</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>Tailandɛ</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>Taiwanin</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>Tanzani</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>Tazikisitá</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>Tikɛménisitá</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>Tiliki</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>Timorɛ ya Moniɛlɛ</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>Tinidadɛ mpé Tobago</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>Tinizi</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>Togo</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>Tokelau</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>Tonga</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Tsádi</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>Tuvalu</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>Uganda</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>Uzibɛkisitá</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>Vanuatu</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>Vatiká</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>Venézuela</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>Viyetinamɛ</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>Walisɛ mpé Futuna</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>Yemɛnɛ</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>Zamaiki</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>Zambi</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>Zapɔ</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>Zelandɛ ya sika</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>Zibatalɛ</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>Zimbabwe</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>Zɔdani</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>Zorzi</value>
+  </data>
+</root>

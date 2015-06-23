@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AO.Text" xml:space="preserve">
+    <value>અંગોલા</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>અઝરબૈજાન</value>
+  </data>
+  <data name="AF.Text" xml:space="preserve">
+    <value>અફઘાનિસ્તાન</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>અમેરીકન સમોઆ</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>અરુબા</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>અલ્જીરિયા</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>અલ્બેનિયા</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>આઇવરી કોસ્ટ</value>
+  </data>
+  <data name="IS.Text" xml:space="preserve">
+    <value>આઇસલેન્ડ</value>
+  </data>
+  <data name="QO.Text" xml:space="preserve">
+    <value>આઉટલાયિંગ ઓશનિયા</value>
+  </data>
+  <data name="IE.Text" xml:space="preserve">
+    <value>આયર્લેંડ</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>આર્જેન્ટીના</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>આર્મેનિયા</value>
+  </data>
+  <data name="GQ.Text" xml:space="preserve">
+    <value>ઇક્વેટોરિયલ ગિની</value>
+  </data>
+  <data name="EG.Text" xml:space="preserve">
+    <value>ઇજિપ્ત</value>
+  </data>
+  <data name="IL.Text" xml:space="preserve">
+    <value>ઇઝરાઇલ</value>
+  </data>
+  <data name="IT.Text" xml:space="preserve">
+    <value>ઇટાલી</value>
+  </data>
+  <data name="ET.Text" xml:space="preserve">
+    <value>ઇથિઓપિયા</value>
+  </data>
+  <data name="ID.Text" xml:space="preserve">
+    <value>ઇન્ડોનેશિયા</value>
+  </data>
+  <data name="IQ.Text" xml:space="preserve">
+    <value>ઇરાક</value>
+  </data>
+  <data name="IM.Text" xml:space="preserve">
+    <value>ઇસ્લે ઓફ મૅન</value>
+  </data>
+  <data name="IR.Text" xml:space="preserve">
+    <value>ઈરાન</value>
+  </data>
+  <data name="UZ.Text" xml:space="preserve">
+    <value>ઉઝ્બેકિસ્તાન</value>
+  </data>
+  <data name="MP.Text" xml:space="preserve">
+    <value>ઉતરીય મારિયાના આઇલેન્ડ્સ</value>
+  </data>
+  <data name="KP.Text" xml:space="preserve">
+    <value>ઉત્તર કોરિયા</value>
+  </data>
+  <data name="UY.Text" xml:space="preserve">
+    <value>ઉરુગ્વે</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>ઍંગ્વિલા</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>ઍંડોરા</value>
+  </data>
+  <data name="EC.Text" xml:space="preserve">
+    <value>એક્વાડોર</value>
+  </data>
+  <data name="AQ.Text" xml:space="preserve">
+    <value>એન્ટાર્કટિકા</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>એન્ટીગુઆ અને બરબુડા</value>
+  </data>
+  <data name="ER.Text" xml:space="preserve">
+    <value>એરિટ્રિયા</value>
+  </data>
+  <data name="SV.Text" xml:space="preserve">
+    <value>એલ સેલ્વાડોર</value>
+  </data>
+  <data name="AX.Text" xml:space="preserve">
+    <value>એલેંડ આઇલેન્ડ્સ</value>
+  </data>
+  <data name="AC.Text" xml:space="preserve">
+    <value>એસેન્શન આઇલેન્ડ</value>
+  </data>
+  <data name="EE.Text" xml:space="preserve">
+    <value>એસ્ટોનિયા</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>ઑસ્ટ્રિયા</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>ઑસ્ટ્રેલિયા</value>
+  </data>
+  <data name="OM.Text" xml:space="preserve">
+    <value>ઓમાન</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>કંબોડિયા</value>
+  </data>
+  <data name="KZ.Text" xml:space="preserve">
+    <value>કઝાકિસ્તાન</value>
+  </data>
+  <data name="QA.Text" xml:space="preserve">
+    <value>કતાર</value>
+  </data>
+  <data name="KI.Text" xml:space="preserve">
+    <value>કિરિબાટી</value>
+  </data>
+  <data name="KG.Text" xml:space="preserve">
+    <value>કિર્ગિઝ્સ્તાન</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>કુક આઇલેન્ડ્સ</value>
+  </data>
+  <data name="KW.Text" xml:space="preserve">
+    <value>કુવૈત</value>
+  </data>
+  <data name="IC.Text" xml:space="preserve">
+    <value>કૅનેરી આઇલેન્ડ્સ</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>કૅપ વર્ડે</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>કૅમરૂન</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>કેનેડા</value>
+  </data>
+  <data name="KE.Text" xml:space="preserve">
+    <value>કેન્યા</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>કેયમેન આઇલૅંડ્સ</value>
+  </data>
+  <data name="CD.Text" xml:space="preserve">
+    <value>કોંગો - કિંશાસા</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>કોંગો - બ્રાઝાવિલે</value>
+  </data>
+  <data name="CC.Text" xml:space="preserve">
+    <value>કોકોઝ આઇલેન્ડ</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>કોમોરસ</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>કોલમ્બિયા</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>કોસ્ટા રિકા</value>
+  </data>
+  <data name="CU.Text" xml:space="preserve">
+    <value>ક્યુબા</value>
+  </data>
+  <data name="CX.Text" xml:space="preserve">
+    <value>ક્રિસમસ આઇલેંડ</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>ક્રોએશિયા</value>
+  </data>
+  <data name="CP.Text" xml:space="preserve">
+    <value>ક્લિપરટન આઇલેન્ડ</value>
+  </data>
+  <data name="GY.Text" xml:space="preserve">
+    <value>ગયાના</value>
+  </data>
+  <data name="GN.Text" xml:space="preserve">
+    <value>ગિની</value>
+  </data>
+  <data name="GW.Text" xml:space="preserve">
+    <value>ગિની-બિસાઉ</value>
+  </data>
+  <data name="GA.Text" xml:space="preserve">
+    <value>ગેબન</value>
+  </data>
+  <data name="GM.Text" xml:space="preserve">
+    <value>ગેમ્બિયા</value>
+  </data>
+  <data name="GL.Text" xml:space="preserve">
+    <value>ગ્રીનલેન્ડ</value>
+  </data>
+  <data name="GR.Text" xml:space="preserve">
+    <value>ગ્રીસ</value>
+  </data>
+  <data name="GD.Text" xml:space="preserve">
+    <value>ગ્રેનેડા</value>
+  </data>
+  <data name="GT.Text" xml:space="preserve">
+    <value>ગ્વાટેમાલા</value>
+  </data>
+  <data name="GP.Text" xml:space="preserve">
+    <value>ગ્વાડેલોપ</value>
+  </data>
+  <data name="GU.Text" xml:space="preserve">
+    <value>ગ્વામ</value>
+  </data>
+  <data name="GG.Text" xml:space="preserve">
+    <value>ગ્વેર્નસે</value>
+  </data>
+  <data name="GH.Text" xml:space="preserve">
+    <value>ઘાના</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>ચાડ</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>ચિલી</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>ચીન</value>
+  </data>
+  <data name="CZ.Text" xml:space="preserve">
+    <value>ચેક રીપબ્લિક</value>
+  </data>
+  <data name="JM.Text" xml:space="preserve">
+    <value>જમૈકા</value>
+  </data>
+  <data name="DE.Text" xml:space="preserve">
+    <value>જર્મની</value>
+  </data>
+  <data name="JE.Text" xml:space="preserve">
+    <value>જર્સી</value>
+  </data>
+  <data name="JP.Text" xml:space="preserve">
+    <value>જાપાન</value>
+  </data>
+  <data name="DJ.Text" xml:space="preserve">
+    <value>જીબૌટી</value>
+  </data>
+  <data name="GI.Text" xml:space="preserve">
+    <value>જીબ્રાલ્ટર</value>
+  </data>
+  <data name="JO.Text" xml:space="preserve">
+    <value>જોર્ડન</value>
+  </data>
+  <data name="GE.Text" xml:space="preserve">
+    <value>જ્યોર્જીયા</value>
+  </data>
+  <data name="ZM.Text" xml:space="preserve">
+    <value>ઝામ્બિયા</value>
+  </data>
+  <data name="ZW.Text" xml:space="preserve">
+    <value>ઝિમ્બાબ્વે</value>
+  </data>
+  <data name="TC.Text" xml:space="preserve">
+    <value>ટર્ક્સ એન્ડ કૈકોસ આઇલેન્ડ્સ</value>
+  </data>
+  <data name="TO.Text" xml:space="preserve">
+    <value>ટોંગા</value>
+  </data>
+  <data name="TK.Text" xml:space="preserve">
+    <value>ટોકેલાઉ</value>
+  </data>
+  <data name="TG.Text" xml:space="preserve">
+    <value>ટોગો</value>
+  </data>
+  <data name="TN.Text" xml:space="preserve">
+    <value>ટ્યુનિશિયા</value>
+  </data>
+  <data name="TA.Text" xml:space="preserve">
+    <value>ટ્રિસ્ટન ડે કુના</value>
+  </data>
+  <data name="DG.Text" xml:space="preserve">
+    <value>ડિએગો ગારસિઆ</value>
+  </data>
+  <data name="DK.Text" xml:space="preserve">
+    <value>ડેનમાર્ક</value>
+  </data>
+  <data name="DO.Text" xml:space="preserve">
+    <value>ડોમિનિકન રીપબ્લિક</value>
+  </data>
+  <data name="DM.Text" xml:space="preserve">
+    <value>ડોમિનિકા</value>
+  </data>
+  <data name="TZ.Text" xml:space="preserve">
+    <value>તાંઝાનિયા</value>
+  </data>
+  <data name="TW.Text" xml:space="preserve">
+    <value>તાઇવાન</value>
+  </data>
+  <data name="TJ.Text" xml:space="preserve">
+    <value>તાજીકિસ્તાન</value>
+  </data>
+  <data name="TR.Text" xml:space="preserve">
+    <value>તુર્કસ્તાન</value>
+  </data>
+  <data name="TM.Text" xml:space="preserve">
+    <value>તુર્ક્મનિસ્તાન</value>
+  </data>
+  <data name="TV.Text" xml:space="preserve">
+    <value>તુવાલુ</value>
+  </data>
+  <data name="TT.Text" xml:space="preserve">
+    <value>ત્રિનિડાડ અને ટોબેગો</value>
+  </data>
+  <data name="TH.Text" xml:space="preserve">
+    <value>થાઇલેંડ</value>
+  </data>
+  <data name="ZA.Text" xml:space="preserve">
+    <value>દક્ષિણ આફ્રિકા</value>
+  </data>
+  <data name="KR.Text" xml:space="preserve">
+    <value>દક્ષિણ કોરિયા</value>
+  </data>
+  <data name="GS.Text" xml:space="preserve">
+    <value>દક્ષિણ જ્યોર્જીયા અને દક્ષિણ સેન્ડવિચ આઇલેન્ડ</value>
+  </data>
+  <data name="NE.Text" xml:space="preserve">
+    <value>નાઇજર</value>
+  </data>
+  <data name="NG.Text" xml:space="preserve">
+    <value>નાઇજીરીયા</value>
+  </data>
+  <data name="NA.Text" xml:space="preserve">
+    <value>નામિબિયા</value>
+  </data>
+  <data name="NI.Text" xml:space="preserve">
+    <value>નિકારાગુઆ</value>
+  </data>
+  <data name="NU.Text" xml:space="preserve">
+    <value>નીયુ</value>
+  </data>
+  <data name="AN.Text" xml:space="preserve">
+    <value>નેધરલેંડ્સ એંટિલેસ</value>
+  </data>
+  <data name="NL.Text" xml:space="preserve">
+    <value>નેધરલેન્ડ</value>
+  </data>
+  <data name="NP.Text" xml:space="preserve">
+    <value>નેપાળ</value>
+  </data>
+  <data name="NO.Text" xml:space="preserve">
+    <value>નૉર્વે</value>
+  </data>
+  <data name="NF.Text" xml:space="preserve">
+    <value>નોરફૉક આઇલેન્ડ</value>
+  </data>
+  <data name="NR.Text" xml:space="preserve">
+    <value>નૌરુ</value>
+  </data>
+  <data name="NC.Text" xml:space="preserve">
+    <value>ન્યુ સેલેડોનિયા</value>
+  </data>
+  <data name="NZ.Text" xml:space="preserve">
+    <value>ન્યુઝીલેન્ડ</value>
+  </data>
+  <data name="PA.Text" xml:space="preserve">
+    <value>પનામા</value>
+  </data>
+  <data name="PW.Text" xml:space="preserve">
+    <value>પલાઉ</value>
+  </data>
+  <data name="EH.Text" xml:space="preserve">
+    <value>પશ્ચિમી સહારા</value>
+  </data>
+  <data name="PK.Text" xml:space="preserve">
+    <value>પાકિસ્તાન</value>
+  </data>
+  <data name="PG.Text" xml:space="preserve">
+    <value>પાપુઆ ન્યૂ ગિની</value>
+  </data>
+  <data name="PN.Text" xml:space="preserve">
+    <value>પીટકૈર્ન</value>
+  </data>
+  <data name="TL.Text" xml:space="preserve">
+    <value>પૂર્વ તિમોર</value>
+  </data>
+  <data name="PY.Text" xml:space="preserve">
+    <value>પેરાગ્વે</value>
+  </data>
+  <data name="PE.Text" xml:space="preserve">
+    <value>પેરુ</value>
+  </data>
+  <data name="PS.Text" xml:space="preserve">
+    <value>પેલેસ્ટિનિયન ટેરિટરી</value>
+  </data>
+  <data name="PT.Text" xml:space="preserve">
+    <value>પોર્ટુગલ</value>
+  </data>
+  <data name="PL.Text" xml:space="preserve">
+    <value>પોલેંડ</value>
+  </data>
+  <data name="PR.Text" xml:space="preserve">
+    <value>પ્યુઅર્ટો રિકો</value>
+  </data>
+  <data name="PH.Text" xml:space="preserve">
+    <value>ફિલિપિન્સ</value>
+  </data>
+  <data name="FJ.Text" xml:space="preserve">
+    <value>ફીજી</value>
+  </data>
+  <data name="FI.Text" xml:space="preserve">
+    <value>ફીનલેંડ</value>
+  </data>
+  <data name="FO.Text" xml:space="preserve">
+    <value>ફૅરો આઇલેન્ડ્સ</value>
+  </data>
+  <data name="FK.Text" xml:space="preserve">
+    <value>ફૉકલૅંડ આઇલૅંડ્સ</value>
+  </data>
+  <data name="FR.Text" xml:space="preserve">
+    <value>ફ્રાંસ</value>
+  </data>
+  <data name="GF.Text" xml:space="preserve">
+    <value>ફ્રેંચ ગયાના</value>
+  </data>
+  <data name="PF.Text" xml:space="preserve">
+    <value>ફ્રેંચ પોલિનેશિયા</value>
+  </data>
+  <data name="TF.Text" xml:space="preserve">
+    <value>ફ્રેંચ સદર્ન ટેરિટરીઝ</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>બર્મુડા</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>બલ્ગેરિયા</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>બહામાસ</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>બાંગ્લાદેશ</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>બાર્બાડોસ</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>બુરુંડી</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>બુર્કિના ફાસો</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>બેનિન</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>બેલારુસ</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>બેલીઝ</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>બેલ્જીયમ</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>બેહરીન</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>બોત્સ્વાના</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>બોલિવિયા</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>બોસ્નિયા અને હર્ઝેગોવિના</value>
+  </data>
+  <data name="BV.Text" xml:space="preserve">
+    <value>બૌવેત આઇલેન્ડ</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>બ્રાઝિલ</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>બ્રિટિશ ઇન્ડિયન ઓશન ટેરિટરી</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>બ્રિટિશ વર્જિન આઇલેન્ડ</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>બ્રુનેઇ</value>
+  </data>
+  <data name="IN.Text" xml:space="preserve">
+    <value>ભારત</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>ભૂટાન</value>
+  </data>
+  <data name="MN.Text" xml:space="preserve">
+    <value>મંગોલિયા</value>
+  </data>
+  <data name="MO.Text" xml:space="preserve">
+    <value>મકાઉ SAR ચીન</value>
+  </data>
+  <data name="MY.Text" xml:space="preserve">
+    <value>મલેશિયા</value>
+  </data>
+  <data name="FM.Text" xml:space="preserve">
+    <value>માઇક્રોનેશિયા</value>
+  </data>
+  <data name="MQ.Text" xml:space="preserve">
+    <value>માર્ટીનીક</value>
+  </data>
+  <data name="MH.Text" xml:space="preserve">
+    <value>માર્શલ આઇલેન્ડ્સ</value>
+  </data>
+  <data name="MV.Text" xml:space="preserve">
+    <value>માલદિવ્સ</value>
+  </data>
+  <data name="MW.Text" xml:space="preserve">
+    <value>માલાવી</value>
+  </data>
+  <data name="ML.Text" xml:space="preserve">
+    <value>માલી</value>
+  </data>
+  <data name="MT.Text" xml:space="preserve">
+    <value>માલ્ટા</value>
+  </data>
+  <data name="MX.Text" xml:space="preserve">
+    <value>મેક્સિકો</value>
+  </data>
+  <data name="MG.Text" xml:space="preserve">
+    <value>મેડાગાસ્કર</value>
+  </data>
+  <data name="YT.Text" xml:space="preserve">
+    <value>મેયોટ</value>
+  </data>
+  <data name="MK.Text" xml:space="preserve">
+    <value>મેસેડોનિયા</value>
+  </data>
+  <data name="ME.Text" xml:space="preserve">
+    <value>મૉન્ટેંનેગ્રો</value>
+  </data>
+  <data name="MS.Text" xml:space="preserve">
+    <value>મોંટસેરાત</value>
+  </data>
+  <data name="MZ.Text" xml:space="preserve">
+    <value>મોઝામ્બિક</value>
+  </data>
+  <data name="MC.Text" xml:space="preserve">
+    <value>મોનાકો</value>
+  </data>
+  <data name="MU.Text" xml:space="preserve">
+    <value>મોરિશિયસ</value>
+  </data>
+  <data name="MA.Text" xml:space="preserve">
+    <value>મોરોક્કો</value>
+  </data>
+  <data name="MD.Text" xml:space="preserve">
+    <value>મોલડોવા</value>
+  </data>
+  <data name="MR.Text" xml:space="preserve">
+    <value>મૌરિટાનિયા</value>
+  </data>
+  <data name="MM.Text" xml:space="preserve">
+    <value>મ્યાંમાર</value>
+  </data>
+  <data name="VI.Text" xml:space="preserve">
+    <value>યુ.એસ વર્જિન આઇલેન્ડ</value>
+  </data>
+  <data name="UG.Text" xml:space="preserve">
+    <value>યુગાંડા</value>
+  </data>
+  <data name="AE.Text" xml:space="preserve">
+    <value>યુનાઇટેડ અરબ એમિરેટ્સ</value>
+  </data>
+  <data name="GB.Text" xml:space="preserve">
+    <value>યુનાઇટેડ કિંગડમ</value>
+  </data>
+  <data name="EU.Text" xml:space="preserve">
+    <value>યુરોપિયન સંઘ</value>
+  </data>
+  <data name="UA.Text" xml:space="preserve">
+    <value>યૂક્રેન</value>
+  </data>
+  <data name="YE.Text" xml:space="preserve">
+    <value>યેમેન</value>
+  </data>
+  <data name="RW.Text" xml:space="preserve">
+    <value>રવાંડા</value>
+  </data>
+  <data name="RU.Text" xml:space="preserve">
+    <value>રશિયન ફેડરેશન</value>
+  </data>
+  <data name="RE.Text" xml:space="preserve">
+    <value>રીયુનિયન</value>
+  </data>
+  <data name="RO.Text" xml:space="preserve">
+    <value>રોમાનિયા</value>
+  </data>
+  <data name="LU.Text" xml:space="preserve">
+    <value>લક્ઝમબર્ગ</value>
+  </data>
+  <data name="LR.Text" xml:space="preserve">
+    <value>લાઇબેરિયા</value>
+  </data>
+  <data name="LA.Text" xml:space="preserve">
+    <value>લાઓસ</value>
+  </data>
+  <data name="LV.Text" xml:space="preserve">
+    <value>લાત્વિયા</value>
+  </data>
+  <data name="LT.Text" xml:space="preserve">
+    <value>લિથુઆનિયા</value>
+  </data>
+  <data name="LY.Text" xml:space="preserve">
+    <value>લિબિયા</value>
+  </data>
+  <data name="LB.Text" xml:space="preserve">
+    <value>લેબનોન</value>
+  </data>
+  <data name="LS.Text" xml:space="preserve">
+    <value>લેસોથો</value>
+  </data>
+  <data name="LI.Text" xml:space="preserve">
+    <value>લૈચટેંસ્ટેઇન</value>
+  </data>
+  <data name="VU.Text" xml:space="preserve">
+    <value>વાનુઆતુ</value>
+  </data>
+  <data name="VN.Text" xml:space="preserve">
+    <value>વિયેતનામ</value>
+  </data>
+  <data name="VA.Text" xml:space="preserve">
+    <value>વેટિકન</value>
+  </data>
+  <data name="VE.Text" xml:space="preserve">
+    <value>વેનેઝુએલા</value>
+  </data>
+  <data name="WF.Text" xml:space="preserve">
+    <value>વૉલિસ એંડ ફ્યુચુના આઇલેન્ડ્સ</value>
+  </data>
+  <data name="SC.Text" xml:space="preserve">
+    <value>શેશેલ્સ</value>
+  </data>
+  <data name="LK.Text" xml:space="preserve">
+    <value>શ્રીલંકા</value>
+  </data>
+  <data name="US.Text" xml:space="preserve">
+    <value>સંયુકત રાજ્ય/ અમેરિકા</value>
+  </data>
+  <data name="UM.Text" xml:space="preserve">
+    <value>સંયુક્ત રાજ્ય માઇનર આઉટલાઇંગ આયલેન્ડ</value>
+  </data>
+  <data name="WS.Text" xml:space="preserve">
+    <value>સમોઆ</value>
+  </data>
+  <data name="RS.Text" xml:space="preserve">
+    <value>સર્બિયા</value>
+  </data>
+  <data name="CS.Text" xml:space="preserve">
+    <value>સર્બિયા અને મોન્ટેનેગ્રો</value>
+  </data>
+  <data name="SA.Text" xml:space="preserve">
+    <value>સાઉદી અરેબિયા</value>
+  </data>
+  <data name="ST.Text" xml:space="preserve">
+    <value>સાઓ ટૉમ અને પ્રિંસિપે</value>
+  </data>
+  <data name="CY.Text" xml:space="preserve">
+    <value>સાયપ્રસ</value>
+  </data>
+  <data name="SG.Text" xml:space="preserve">
+    <value>સિંગાપુર</value>
+  </data>
+  <data name="SL.Text" xml:space="preserve">
+    <value>સીએરા લેઓન</value>
+  </data>
+  <data name="SY.Text" xml:space="preserve">
+    <value>સીરિયા</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>સુદાન</value>
+  </data>
+  <data name="SR.Text" xml:space="preserve">
+    <value>સુરીનામ</value>
+  </data>
+  <data name="SM.Text" xml:space="preserve">
+    <value>સૅન મેરિનો</value>
+  </data>
+  <data name="KN.Text" xml:space="preserve">
+    <value>સેંટ કિટ્સ એંડ નેવિસ</value>
+  </data>
+  <data name="PM.Text" xml:space="preserve">
+    <value>સેંટ પીએરે એન્ડ મિકીલોન</value>
+  </data>
+  <data name="BL.Text" xml:space="preserve">
+    <value>સેંટ બાર્થલેમી</value>
+  </data>
+  <data name="MF.Text" xml:space="preserve">
+    <value>સેંટ માર્ટિન</value>
+  </data>
+  <data name="LC.Text" xml:space="preserve">
+    <value>સેંટ લુસિયા</value>
+  </data>
+  <data name="VC.Text" xml:space="preserve">
+    <value>સેંટ વિંસેંટ એંડ ધ ગ્રેનેડિન્સ</value>
+  </data>
+  <data name="SH.Text" xml:space="preserve">
+    <value>સેંટ હેલેના</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>સેંટ્રલ આફ્રિકન રીપબ્લિક</value>
+  </data>
+  <data name="SN.Text" xml:space="preserve">
+    <value>સેનેગલ</value>
+  </data>
+  <data name="SO.Text" xml:space="preserve">
+    <value>સોમાલિયા</value>
+  </data>
+  <data name="SB.Text" xml:space="preserve">
+    <value>સોલોમન આઇલેન્ડ</value>
+  </data>
+  <data name="ES.Text" xml:space="preserve">
+    <value>સ્પેન</value>
+  </data>
+  <data name="EA.Text" xml:space="preserve">
+    <value>સ્યુટા અને મેલિલા</value>
+  </data>
+  <data name="SK.Text" xml:space="preserve">
+    <value>સ્લોવેકિયા</value>
+  </data>
+  <data name="SI.Text" xml:space="preserve">
+    <value>સ્લોવેનિયા</value>
+  </data>
+  <data name="SZ.Text" xml:space="preserve">
+    <value>સ્વાઝિલેન્ડ</value>
+  </data>
+  <data name="SJ.Text" xml:space="preserve">
+    <value>સ્વાલબર્ડ એંડ જેન મેયન</value>
+  </data>
+  <data name="CH.Text" xml:space="preserve">
+    <value>સ્વિટ્ઝર્લૅન્ડ</value>
+  </data>
+  <data name="SE.Text" xml:space="preserve">
+    <value>સ્વીડન</value>
+  </data>
+  <data name="HU.Text" xml:space="preserve">
+    <value>હંગેરી</value>
+  </data>
+  <data name="HM.Text" xml:space="preserve">
+    <value>હર્ડ આઇલૅંડ એંડ મેકડોનાલ્ડ આઇલૅંડ્સ</value>
+  </data>
+  <data name="HT.Text" xml:space="preserve">
+    <value>હૈતિ</value>
+  </data>
+  <data name="HK.Text" xml:space="preserve">
+    <value>હોંગકોંગ સાર ચીન</value>
+  </data>
+  <data name="HN.Text" xml:space="preserve">
+    <value>હોન્ડુરસ</value>
+  </data>
+</root>

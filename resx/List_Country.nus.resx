@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AF.Text" xml:space="preserve">
+    <value>Abganithtan</value>
+  </data>
+  <data name="AZ.Text" xml:space="preserve">
+    <value>Adhe̱rbe̱ja̱n</value>
+  </data>
+  <data name="AR.Text" xml:space="preserve">
+    <value>Aɛrgentin</value>
+  </data>
+  <data name="AM.Text" xml:space="preserve">
+    <value>Aɛrmänia</value>
+  </data>
+  <data name="AL.Text" xml:space="preserve">
+    <value>Albänia</value>
+  </data>
+  <data name="DZ.Text" xml:space="preserve">
+    <value>Algeria</value>
+  </data>
+  <data name="AS.Text" xml:space="preserve">
+    <value>Amerika thamow</value>
+  </data>
+  <data name="AD.Text" xml:space="preserve">
+    <value>Andora</value>
+  </data>
+  <data name="AG.Text" xml:space="preserve">
+    <value>Antiguaa kɛnɛ Barbuda</value>
+  </data>
+  <data name="AO.Text" xml:space="preserve">
+    <value>Aŋgola</value>
+  </data>
+  <data name="AI.Text" xml:space="preserve">
+    <value>Aŋguɛla</value>
+  </data>
+  <data name="AW.Text" xml:space="preserve">
+    <value>Aruba</value>
+  </data>
+  <data name="AU.Text" xml:space="preserve">
+    <value>Athɔra̱lia</value>
+  </data>
+  <data name="AT.Text" xml:space="preserve">
+    <value>Athtɛria</value>
+  </data>
+  <data name="BS.Text" xml:space="preserve">
+    <value>Bämuɔth</value>
+  </data>
+  <data name="BR.Text" xml:space="preserve">
+    <value>Bäraadhiil</value>
+  </data>
+  <data name="BB.Text" xml:space="preserve">
+    <value>Bärbadoth</value>
+  </data>
+  <data name="BH.Text" xml:space="preserve">
+    <value>Ba̱reen</value>
+  </data>
+  <data name="BY.Text" xml:space="preserve">
+    <value>Be̱lɛruth</value>
+  </data>
+  <data name="BE.Text" xml:space="preserve">
+    <value>Be̱lgim</value>
+  </data>
+  <data name="BD.Text" xml:space="preserve">
+    <value>Bengeladiec</value>
+  </data>
+  <data name="BJ.Text" xml:space="preserve">
+    <value>Be̱ni̱n</value>
+  </data>
+  <data name="BM.Text" xml:space="preserve">
+    <value>Be̱rmudaa</value>
+  </data>
+  <data name="BZ.Text" xml:space="preserve">
+    <value>Bilidha</value>
+  </data>
+  <data name="BW.Text" xml:space="preserve">
+    <value>Bothiwaana</value>
+  </data>
+  <data name="BA.Text" xml:space="preserve">
+    <value>Bothnia kɛnɛ ɣärgobinia</value>
+  </data>
+  <data name="BG.Text" xml:space="preserve">
+    <value>Bulga̱a̱ria</value>
+  </data>
+  <data name="BO.Text" xml:space="preserve">
+    <value>Bulibia</value>
+  </data>
+  <data name="BF.Text" xml:space="preserve">
+    <value>Burkinɛ pa̱thu</value>
+  </data>
+  <data name="BI.Text" xml:space="preserve">
+    <value>Burundi</value>
+  </data>
+  <data name="BN.Text" xml:space="preserve">
+    <value>Burunɛy</value>
+  </data>
+  <data name="VG.Text" xml:space="preserve">
+    <value>Burutic dhuɔ̱ɔ̱l be̱rgin</value>
+  </data>
+  <data name="IO.Text" xml:space="preserve">
+    <value>Burutic ɣe̱ndian oce̱n</value>
+  </data>
+  <data name="BT.Text" xml:space="preserve">
+    <value>Buta̱n</value>
+  </data>
+  <data name="TD.Text" xml:space="preserve">
+    <value>Ca̱d</value>
+  </data>
+  <data name="CN.Text" xml:space="preserve">
+    <value>Cayna</value>
+  </data>
+  <data name="CF.Text" xml:space="preserve">
+    <value>Cɛntrɔl aprika repuɔblic</value>
+  </data>
+  <data name="CL.Text" xml:space="preserve">
+    <value>Cili̱</value>
+  </data>
+  <data name="CA.Text" xml:space="preserve">
+    <value>Känɛda</value>
+  </data>
+  <data name="KY.Text" xml:space="preserve">
+    <value>Kaymɛn ɣa̱ylɛn</value>
+  </data>
+  <data name="CM.Text" xml:space="preserve">
+    <value>Kɛmɛrun</value>
+  </data>
+  <data name="CV.Text" xml:space="preserve">
+    <value>Kɛp bedi ɣa̱ylɛn</value>
+  </data>
+  <data name="CI.Text" xml:space="preserve">
+    <value>Kodibo̱o̱</value>
+  </data>
+  <data name="CO.Text" xml:space="preserve">
+    <value>Kolombia</value>
+  </data>
+  <data name="KH.Text" xml:space="preserve">
+    <value>Kombodia</value>
+  </data>
+  <data name="KM.Text" xml:space="preserve">
+    <value>Komruth</value>
+  </data>
+  <data name="HR.Text" xml:space="preserve">
+    <value>Korwaatia</value>
+  </data>
+  <data name="CR.Text" xml:space="preserve">
+    <value>Kothtirika</value>
+  </data>
+  <data name="CG.Text" xml:space="preserve">
+    <value>Kɔŋgɔ</value>
+  </data>
+  <data name="CK.Text" xml:space="preserve">
+    <value>Kuk ɣa̱ylɛn</value>
+  </data>
+  <data name="SD.Text" xml:space="preserve">
+    <value>Sudan</value>
+  </data>
+</root>
